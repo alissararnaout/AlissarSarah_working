@@ -2,3 +2,21 @@
   background: #ccc;
   padding: 2rem 0 2rem .5rem;
 }
+
+#headerTitle
+{
+	margin: 0 auto;
+	height: 6.35rem;
+}
+
+#pic1
+{
+	float: left;
+	margin-right: 0.3215rem;
+	margin-left: 1.8215rem;
+}
+
+#pic2
+{
+	float: left;
+}
