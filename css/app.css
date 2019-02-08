@@ -1,6 +1,7 @@
 .box-model {
-  background: #ccc;
+  background: black;
   padding: 2rem 0 2rem .5rem;
+  color: white;
 }
 
 #headerTitle
