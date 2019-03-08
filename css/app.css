@@ -1,10 +1,101 @@
+@media print, screen and (min-width: 40em) 
+{
+
+}
+
 .box-model {
   background: black;
   padding: 2rem 0 2rem .5rem;
   color: white;
 }
 
+#nav
+{
+	background-color: black;
+	height: 8.5rem;
+}
+
+#logo
+{
+	margin-left: 11rem;
+	margin-top: 0.5rem;
+}
+
+#menu
+{
+	margin-left: 5rem;
+}
+
 #headerTitle
+{
+	margin: 0 auto;
+	height: 25rem;
+	width: 30rem;
+	background-color: #FEFF7C;
+}
+
+#ChicoCharity
+{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 2.5rem;
+	margin-top: 1rem;
+	margin-left: 3rem;
+	border-bottom: dashed;
+	border-bottom-color:  #FF9B98;
+	width: 23rem;
+}
+
+#introImg
+{
+	height: 12rem;
+	width: 12rem;
+	float: left;
+}
+
+#welcomePic
+{
+	margin-left: 1rem;
+	margin-top: 1rem;
+	float: left;
+
+}
+
+#welcomePara
+{
+	width: 15rem;
+	height: 13rem;
+	float: left;
+	font-family: 'Didact Gothic', sans-serif;
+	margin-left: 1rem;
+	margin-top: 1rem;
+
+
+}
+
+#buttonhead
+{
+	float: left;
+	margin-left: 13rem;
+}
+
+#donate
+{
+	padding: 1rem;
+	background-color: aliceblue;
+	border: thin solid;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.5rem;
+	
+}
+
+
+#headerTitle2
+{
+	margin: 0 auto;
+	height: 6.35rem;
+}
+
+#support
 {
 	margin: 0 auto;
 	height: 6.35rem;
@@ -18,6 +109,18 @@
 }
 
 #pic2
+{
+	float: left;
+}
+
+#pic12
+{
+	float: left;
+	margin-right: 0.3215rem;
+	margin-left: 1.8215rem;
+}
+
+#pic22
 {
 	float: left;
 }
