@@ -12,10 +12,11 @@
 </head>
 <body>
 	  <div class="grid-container full">
-      <div class="grid-x">
+      <div class="grid-x" id="navShadow">
         <div class="cell large-12" id="nav">
-          <img id="logo" src="assets/logo_final.png" alt="chico logo" width="120" height="120">
-		<img id="menu" src="assets/menu_ham.png" alt="menu" width="60" height="60">
+		<img src="img/home/mobile_logo.png" alt="chico" width="171" height="186" id="logo">
+			<img src="img/home/buy_book.png" alt="buy book" width="59" height="54" id="buyBook">
+			<img src="img/home/menu.png" alt="menu" width="50" height="44" id="hamMenu">
         </div>
       </div>
     </div>
@@ -23,33 +24,39 @@
     <div class="grid-container full"> <!--full to extend beyond container-->
       <div class="grid-x">
         <div class="cell small-6" id="headerTitle">
+			<div class="cell small-6" id="titleContainer">
           <h1 id="ChicoCharity">Welcome to Chico's Charity</h1>
+			</div>
+			<div id="welcomeContent">
 			<div id="introImg">
-			<img id="welcomePic" src="includes/png/logo_drafts_no_rec.png" alt="chico" width="170" height="170">
+			<img id="welcomePic" src="img/home/chico_book_coverFrame.png" alt="chico" width="160" height="160">
 				</div>
-			<p id="welcomePara">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo con</p>
+			<p id="welcomePara">Kids, are you scared about going to the doctor's office, the dentist's office or the hospital? No problem! Your friend Chico was scared too! Read along and see how he conquered his fears just like you can!</p>
+				</div>
 			<div id="buttonhead">
 			<button id="donate" type="button">Learn More</button>
+			</div>
+			<div id="splat">
+			<img src="img/home/yellowIceSplat.png" alt="paint" width="235" height="150">
 			</div>
         </div>
       </div>
     </div>
 
-    <div class="grid-container full"> <!--full to extend beyond container-->
-      <div class="grid-x">
-        <div class="cell small-6" id="headerTitle2">
-          <p class="box-model">Welcome Text</p>
-        </div>
-      </div>
-    </div>
 
-<div class="grid-container">
+<div class="grid-container" id="ourStory">
   <div class="grid-x">
-    <div class="cell small-5" id="pic1">
-      <p class="box-model">Our Story</p>
+	  <div id="storyDiv">
+	  	<h2 id="storyHeader">Our Story</h2>
+		  </div>
+	  <div class="cell small-6" id="storyContent">
+    <div class="cell small-2" id="storyPic">
+      <img src="img/home/our_story_img.png" alt="Jen and Nurses" height="115" width="209">
 		</div>
-    <div class="cell small-5" id="pic2">
-      <p class="box-model">Author Image</p>
+    <div class="cell small-2" id="para1">
+      <p id="storyPara">Since she was a child, Jen Dafoe experienced ongoing visits to health care facilities for treatment of a variety of health issues. These multiple visits taught Jen to persevere, to be patient and to try to face the challenges of treatment and operations with optimism and to become more knowledgeable about her procedures and what impact they might have both on her physical and emotional well-being. Chico’s Adventures were born out of these experiences.
+	</p>
+		</div>
       </div>
     </div>
   </div>
