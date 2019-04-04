@@ -1,7 +1,5 @@
-@media screen and (max-width: 39.9375em)
-{
 
-}
+
 
 .box-model {
   background: black;
@@ -19,13 +17,506 @@ body
 	height: 7rem;
 }
 
+
+
+@media screen and (max-width: 39.9375em) {
+
 #nav
 {
 	background-color: #ffff99;
-	height: 4.6rem;
+	height: 5.5rem;
 	margin-top: 1em;
 	box-shadow: 0rem 0.5em 1em #c2c24e;
+	width: 28em;
+}
+
+#logo
+{
 	float: left;
+	margin-top: 0.2rem;
+	margin-left: 1.5em;
+	width: 13.4375em;
+	height: 5.1875em;
+}
+
+#buyBook
+{
+	float: left;
+	width: 3.6875em;
+	margin-top: 0.9em;
+	margin-left: 1em;
+}
+
+#hamMenu
+{
+	float: left;
+	margin-left: 2em;
+	margin-top: 1em;
+}
+
+
+.dropdown
+{
+	position: relative;
+
+}
+
+.menu
+{
+	display: none;
+  	position: absolute;
+	margin-top: 5.5em;
+	margin-left: 0.5em;;
+	background-color: #ffff99;
+	padding: 1em 4em 1em 4em;
+	z-index: 1;
+}
+
+.menu a
+{
+	color: black;
+  	padding: 1em 4em 1em 4em;
+ 	text-decoration: none;
+	font-size: 1.65em;
+	font-family: 'Reenie Beanie', cursive;
+	border-bottom: solid 1px #ff9999;
+}
+
+.menu a:hover
+{
+	background-color: #ffff66;
+}
+
+.show 
+{
+	display: block;
+}
+
+#welcome
+{
+	margin-top: 2em;
+}
+
+
+#headerTitle
+{
+	margin: 0 auto;
+	height: 25rem;
+	width: 28em;
+	background-color: #FEFF7C;
+}
+
+#ChicoCharity
+{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 2em;
+	margin-left: 2.5em;
+}
+
+#titleContainer
+{
+	background-color: #ccffcc;
+	border-bottom: 0.3125em solid white;
+	border-top: 0.3125em solid white;
+	height: 3.5em;
+	width: 28em;
+	margin-top: 1.5em;
+	box-shadow: 0em 0.2em 1em #c2c24e;
+}
+
+
+#introImg
+{
+	height: 12rem;
+	width: 12rem;
+	float: left;
+}
+
+#welcomeContent
+{
+	margin-left: 1.5em;
+}
+
+#welcomePic
+{
+	margin-left: 0.5em;
+	margin-top: 2.81em;
+	float: left;
+
+}
+
+#welcomePara
+{
+	width: 10rem;
+	height: 6em;
+	float: left;
+	font-size: 0.7em;
+	font-family: 'Didact Gothic', sans-serif;
+	margin-left: 0.5em;
+	margin-top: 5em;
+	margin-right: 5em;
+
+
+}
+
+#buttonhead
+{
+	float: left;
+	margin-top: 3.68em;
+}
+
+#donate
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #c2c24e;
+	
+}
+
+#donate:hover
+{
+	background-color: #ffffcc;
+}
+
+#splat
+{
+	position: absolute;
+	z-index: 0;
+	margin-left: 15.25em;
+	margin-top: 2.68em;
+}
+
+#headerTitle2
+{
+	margin: 0 auto;
+	height: 6.35rem;
+}
+
+#storyDiv
+{
+	height: 2.8em;
+	margin-top: 2em;
+}
+
+#ourStory
+{
+	background-color: #ff9999;
+	height: 22.25em;
+	width: 28em;
+}
+
+#storyHeader
+{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 2.095em;
+	float: left;
+
+}
+
+#storyPic
+{
+	float: left;
+	width: 209px;
+	margin-top: 1em;
+	margin-left: 0.8em;
+}
+
+#para1
+{
+	float: left;
+	height: 7.5em;
+	width: 12em;
+	margin-top: 0.8125em;
+	z-index: 1;
+}
+
+#storyContent
+{
+	background-color: #ffb7b7;
+	width: 27em;
+	height: 11em;
+	float: left;
+
+}
+
+#storyPara
+{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 0.5em;
+	z-index: 1;
+	position: absolute;
+	width: 20em;
+
+}
+
+#splat2
+{
+	position: absolute;
+	margin-left: 20em;
+	z-index: 0;
+}
+
+#jenbut:hover
+{
+	background-color: #ffcccc;
+}
+
+#chibut:hover
+{
+	background-color: #ffcccc;
+}
+
+
+#buttonstory1
+{
+	float: left;
+	margin-left: 4em;
+	margin-top: 1em;
+}
+
+#jenbut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #db8383;
+	
+}
+
+#buttonstory2
+{
+	float: left;
+	margin-left: 3.125em;
+		margin-top: 1em;
+}
+
+#chibut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #db8383;
+	z-index: 1;
+	position: absolute;
+	
+}
+
+
+#support
+{
+	margin: 0 auto;
+	height: 15.375em;
+	background-color: #ccffcc;
+	width: 28em;
+}
+	
+#supportHead
+	{
+		height: 2em;
+		width: 17.5em;
+		position: absolute;
+		margin-top: 2.6em;
+	}
+
+#supportHeader
+{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.7em;
+	float: left;
+	margin-left: 1em;
+
+}
+
+
+#para2
+{
+	float: left;
+	width: 10em;
+	margin-left: 2em;
+	position: absolute;
+	margin-top: 6em;
+}
+
+#supPara
+{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 0.8em;
+}
+
+#buttonsup1
+{
+	float: left;
+	margin-right: 5em;
+	margin-left: 18em;
+	margin-top: 4.75em;
+	position: absolute;
+}
+
+#donatebut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #99cc99;
+	
+}
+
+#or
+{
+	float: left;
+	margin-right: 10em;
+	margin-left: 20.5em;
+	margin-top: 8em;
+}
+
+#or1
+{
+	font-size: 1.5em;
+	font-family: 'Reenie Beanie', cursive;
+	position: absolute;
+	
+}
+
+
+#buybut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #99cc99;
+	
+}
+
+#buttonsup2
+{
+	float: left;
+	margin-left: 17em;
+	margin-top: 10.25em;
+	position: absolute;
+}
+
+#buybut:hover
+{
+	background-color: #dcffdd;
+}
+
+#donatebut:hover
+{
+	background-color: #dcffdd;
+}
+
+#waterstain
+{
+	position: absolute;
+	margin-top: 12em;
+}
+
+#topstain
+{
+	position: absolute;
+	margin-left: 24em;
+	
+}
+
+#headerstain2
+{
+	position: absolute;
+	margin-top: 2em;
+}
+
+
+#footer
+{
+	background-color: black; 
+	height: 15em;
+	width: 28em;
+}
+
+#letter
+{
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.8em;
+	float: left;
+	margin-top: 1em;
+	margin-left: 1em;
+	margin-right: 7em;
+
+	width: 10em;
+}
+
+#envelope
+{
+	margin-left: 6.5em;
+	width: 5em;
+	float: left;
+}
+
+#backtotop
+{
+	margin-left: 7.8em;
+	margin-top: 2em;
+	width: 3.75em;
+	float: left;
+}
+
+#socialmedia
+{
+	float: left;
+	width: 8.56em;
+	margin-left: 16.5em;
+	margin-top: 2em;
+}
+
+#facebook
+{
+	float: right;
+	margin-left: 0.5em;
+}
+
+#twitter
+{
+	float: right;
+}
+
+#insta
+{
+	float: right;
+	margin-left: 0.5em;
+	
+}
+
+#copyright p
+{
+	color: white;
+	font-size: 0.625em;
+	float: right;
+	margin-top: 0.5em;
+	margin-right: 1em;
+}
+}
+
+
+@media screen and (min-width: 40em) {
+
+#nav
+{
+	background-color: #ffff99;
+	height: 5.5rem;
+	margin-top: 1em;
+	box-shadow: 0rem 0.5em 1em #c2c24e;
+	min-width: 40em;
 }
 
 #logo
@@ -38,8 +529,8 @@ body
 #buyBook
 {
 	float: left;
-	margin-left: 17em;
-	margin-top: 0.7em;
+	width: 3.6875em;
+	margin-top: 0.9em;
 }
 
 #hamMenu
@@ -85,6 +576,11 @@ body
 .show 
 {
 	display: block;
+}
+
+#welcome
+{
+	margin-top: 2em;
 }
 
 
@@ -479,4 +975,6 @@ body
 	float: right;
 	margin-top: 1em;
 	margin-right: 1em;
+}
+
 }
