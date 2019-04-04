@@ -49,6 +49,45 @@ body
 	margin-top: 1em;
 }
 
+
+.dropdown
+{
+	position: relative;
+
+}
+
+.menu
+{
+	display: none;
+  	position: absolute;
+	margin-left: 6em;
+	margin-top: 4.5em;
+	background-color: #ffff99;
+	padding: 2em 4em 2em 4em;
+	z-index: 1;
+}
+
+.menu a
+{
+	color: black;
+  	padding: 1em 4em 1em 4em;
+ 	text-decoration: none;
+	font-size: 1.875em;
+	font-family: 'Reenie Beanie', cursive;
+	border-bottom: solid 1px #ff9999;
+}
+
+.menu a:hover
+{
+	background-color: #ffff66;
+}
+
+.show 
+{
+	display: block;
+}
+
+
 #headerTitle
 {
 	margin: 0 auto;
@@ -146,21 +185,22 @@ body
 
 #storyDiv
 {
-	background-color: 
+	height: 2.8em;
+	margin-top: 2em;
 }
 
 #ourStory
 {
 	background-color: #ff9999;
-	height: 17.25em;
+	height: 20.25em;
+	width: 40em;
 }
 
 #storyHeader
 {
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 2.095em;
-	margin-top: 1em;
-	margin-left: 0.7em;
+	float: left;
 
 }
 
@@ -176,58 +216,267 @@ body
 {
 	float: left;
 	height: 7.5em;
-	width: 22.1em;
+	width: 20.1em;
 	margin-top: 0.8125em;
 	margin-left: 0.8em;
+		z-index: 1;
 }
 
 #storyContent
 {
 	background-color: #ffb7b7;
-	width: 40em;
-	height: 8.69em;
+	width: 39em;
+	height: 9em;
+	float: left;
+
 }
 
 #storyPara
 {
 	font-family: 'Didact Gothic', sans-serif;
 	font-size: 0.7em;
+	z-index: 1;
+	position: absolute;
+	width: 30em;
+
+}
+
+#splat2
+{
+	position: absolute;
+	margin-left: 29em;
+	z-index: 0;
+}
+
+#jenbut:hover
+{
+	background-color: #ffcccc;
+}
+
+#chibut:hover
+{
+	background-color: #ffcccc;
+}
+
+
+#buttonstory1
+{
+	float: left;
+	margin-left: 14.7em;
+	margin-top: 1.68em;
+}
+
+#jenbut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #db8383;
+	
+}
+
+#buttonstory2
+{
+	float: left;
+	margin-left: 3.125em;
+	margin-top: 1.68em;
+}
+
+#chibut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #db8383;
+	z-index: 1;
+	position: absolute;
+	
 }
 
 
 #support
 {
 	margin: 0 auto;
-	height: 6.35rem;
+	height: 15.375em;
+	background-color: #ccffcc;
+	width: 40em;
+}
+
+#supportHeader
+{
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 2.095em;
+	float: left;
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 
-
-#pic1
+#para2
 {
 	float: left;
-	margin-right: 0.3215rem;
-	margin-left: 1.8215rem;
+	width: 20.75em;
+	margin-left: 2em;
 }
 
-#pic2
+#supPara
 {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 1em;
+}
+
+#buttonsup1
+{
+	float: left;
+	margin-right: 5em;
+	margin-left: 25em;
+	margin-top: 4.75em;
+	position: absolute;
+}
+
+#donatebut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #99cc99;
+	
+}
+
+#or
+{
+	float: left;
+	margin-right: 3em;
+}
+
+#or1
+{
+	font-size: 1.5em;
+	font-family: 'Reenie Beanie', cursive;
+	position: absolute;
+	margin-left: 5.8em;
+	margin-top: 5.2em;
+	
+}
+
+
+#buybut
+{
+	padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: white;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em #99cc99;
+	
+}
+
+#buttonsup2
+{
+	float: left;
+	margin-left: 24em;
+	margin-top: 10.25em;
+	position: absolute;
+}
+
+#buybut:hover
+{
+	background-color: #dcffdd;
+}
+
+#donatebut:hover
+{
+	background-color: #dcffdd;
+}
+
+#waterstain
+{
+	position: absolute;
+	margin-top: 12em;
+}
+
+#topstain
+{
+	position: absolute;
+	margin-left: 36em;
+}
+
+#headerstain2
+{
+	position: absolute;
+	margin-top: 2em;
+}
+
+
+#footer
+{
+	background-color: black;
+	width: 40em;
+	height: 11em;
+}
+
+#letter
+{
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.8em;
+	float: left;
+	margin-top: 1em;
+	margin-left: 1em;
+	margin-right: 8em;
+}
+
+#envelope
+{
+	margin-left: 6.5em;
+	width: 5em;
 	float: left;
 }
 
-#pic12
+#backtotop
 {
-	float: left;
-	margin-right: 0.3215rem;
-	margin-left: 1.8215rem;
-}
-
-#pic22
-{
+	margin-left: 7.8em;
+	margin-top: 2em;
+	width: 3.75em;
 	float: left;
 }
 
-#newsTitle
+#socialmedia
 {
-	margin: 0 auto;
+	float: left;
+	width: 8.56em;
+	margin-left: 6em;
+}
+
+#facebook
+{
+	float: right;
+	margin-left: 0.5em;
+}
+
+#twitter
+{
+	float: right;
+}
+
+#insta
+{
+	float: right;
+	margin-left: 0.5em;
+	
+}
+
+#copyright p
+{
+	color: white;
+	font-size: 0.625em;
+	float: right;
+	margin-top: 1em;
+	margin-right: 1em;
 }
