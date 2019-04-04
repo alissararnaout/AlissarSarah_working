@@ -510,6 +510,11 @@ body
 	margin-top: 0.5em;
 	margin-right: 1em;
 }
+	
+	#Desktoplogo
+	{
+		display: none;
+	}
 }
 
 
@@ -525,6 +530,11 @@ body
 }
 	
 #desktopNav
+	{
+		display: none;
+	}
+	
+#Desktoplogo
 	{
 		display: none;
 	}
@@ -997,9 +1007,19 @@ body
 		display:none;
 	}
 	
+	#nav
+	{
+		display: none;
+	}
+	
 	#desktopNav
 	{
 		display: block;
+		background-color: #ffff99;
+		height: 5.5rem;
+		box-shadow: 0rem 0.5em 1em #c2c24e;
+		min-width: 40em;
+		margin-top: 2em;
 	}
 	
 	#buyBook
@@ -1019,13 +1039,14 @@ body
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
-		margin-left: 6em;
+
 	}
 	
 	#navpart1 li
 	{
 		display: inline;
 		float: left;
+		margin-left: 2em;
 	}
 	
 	#navpart1 li a
@@ -1037,13 +1058,26 @@ body
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.8em;
 		color: black;
-		margin-left: 0.2em;
+
 	}
 	
 	#Desktoplogo
 	{
 		float: left;
 		margin: 0 auto;
+		position: absolute;
+		margin-left: 34.5em;
+		margin-top: 1em;
+		display: block;
+
+	}
+	
+	#mainlogo
+	{
+		height: 12.5em;
+		width: 9.4em;
+		position: absolute;
+		margin: 0;
 	}
 	
 	#navpart2
@@ -1060,6 +1094,11 @@ body
 		float: left;
 	}
 	
+	#contact
+	{
+		margin-left: 8em;
+	}
+	
 	#navpart2 li a
 	{
 		display: block;
@@ -1069,19 +1108,21 @@ body
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.8em;
 		color: black;
-		margin-left: 0.2em;
+		margin-left: 2em;
 	}
 	
 	#mainBuybut
 	{
-		padding: 0.7em 1.7em 0.7em 1.7em;
+		padding: 0.7em 1.5em 0.7em 1.5em;
 		background-color: white;
 		border-radius: 1em;
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.5em;
 		box-shadow: 0em 0.3em 0.5em #cccc66;
 		margin-top: 0.7em;
-		margin-left: 1.5em;
+		float: left;
+		margin-left: 2em;
+
 	}
 	
 	#mainBuybut:hover
