@@ -1563,7 +1563,7 @@ margin-top: 3em;
 	#navpart1
 	{
 		margin-left: 14em;
-				margin-top: 0.6em;
+		margin-top: 0.6em;
 	}
 	
 	#whiteLogo
@@ -1587,6 +1587,11 @@ margin-top: 3em;
 		width: 18em;
 		margin-left: 10em;
 		margin-top: 0.6em;
+	}
+	
+	#navpart2 li
+	{
+		margin-left: 1em;
 	}
 	
 	#navpart2 li a
