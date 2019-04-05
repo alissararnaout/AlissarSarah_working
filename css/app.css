@@ -12,6 +12,10 @@ body
 	margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 #navShadow
 {
 	height: 7rem;
@@ -3734,14 +3738,97 @@ font-size: 3em;
 		font-size: 1em;
 		color: white;
 		text-align:left;
-
 	}
 
+#readMore
+{
+  color: black;
+}
+
+#article1
+{
+  background-color: white;
+}
+
+#article2
+{
+  background-color: white;
+}
+
+#article3
+{
+  margin-bottom: 50px;
+  background-color: white;
+}
+
+#meetChico
+{
+  margin-top: 50px;
+}
+
+#sponsor
+{
+  margin-bottom: 100px;
+}
+
+#onegiftBut a
+{
+  color: black
+}
+
+#onegiftBut a:hover
+{
+opacity: 0.75;
+}
+
+#sponsorBut a
+{
+  color: black;
+}
+
+#sponsorBut a:hover
+{
+opacity: 0.75;
+}
+
+#containerDonate
+{
+  background-color: white;
+}
 
 
-#join
+/* JOIN US PAGE*/
+
+#containerJoin {
+  background-color: #ff9999;
+}
+
+#joinHead {
+  margin-top: 150px;
+  height: 300px;
+  background-color: #ffff66;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+#joinHead h2
 {
   margin: 0 auto;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+#manager {
+  height: 600px;
+  width: 400px;
+}
+
+#outreach {
+  height: 480px;
+  width: 320px;
+}
+
+#application h2 {
+  font-family: 'Reenie Beenie', cursive;
 }
 
 }
@@ -3788,6 +3875,7 @@ font-size: 3em;
 		box-shadow: 0em 0.2em 1em grey;
 		margin-top: 2em;
 	}
+
 
 
 	/*meet chico*/
@@ -3857,13 +3945,17 @@ font-size: 3em;
 
 	#mainBuybut
 	{
-		margin-left: 0
+		margin-left: 0;
 	}
+
+  #mainBuybut a:hover
+  {
+    margin-left: 0;
+  }
 
 	#ChicoCharity
 	{
 		margin-left: 13.7em;
 	}
-
 
 }
