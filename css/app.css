@@ -21,30 +21,30 @@ body
 
 
 @media screen and (max-width: 39.9375em) {
-	
+
 /*contact us*/
-	
+
 	#contactBody
 	{
 		background-color: #ccffcc;
 	}
-	
+
 #contactHead h2
 	{
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 2em;	
+		font-size: 2em;
 		margin-left: 5em;
 		float: left;
 		margin-top: 3em;
 	}
-	
+
 	#needHelp
 	{
 		background-color: black;
 		float: left;
 		margin-top: 2em;
 	}
-	
+
 	#help1
 	{
 		color: white;
@@ -54,7 +54,7 @@ body
 		padding-top: 1em;
 		text-align: center;
 	}
-	
+
 	#help2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -63,7 +63,7 @@ body
 		padding-right: 5em;
 		text-align: center;
 	}
-	
+
 	#contactForm
 	{
 		height: 40em;
@@ -72,7 +72,7 @@ body
 		margin-left: 2em;
 		padding-bottom: 3em;
 	}
-	
+
 /*meet jen*/
 
 	#meetjen
@@ -80,20 +80,20 @@ body
 		float: left;
 		margin-top: 5em;
 	}
-	
+
 	#meetjen h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 		margin-left: 5em;
 	}
-	
+
 	#jenCartoon
 	{
 		margin-left: 1em;
 		float: left;
 	}
-	
+
 	#meetjen p
 	{
 		width: 25em;
@@ -105,28 +105,28 @@ body
 		float: left;
 		position: absolute;
 	}
-	
+
 	#swipe
 	{
 		margin-left: 10em;
 		margin-top: 20em;
 		position: absolute;
-		
+
 	}
-	
+
 	#meettheteam
 	{
 		margin-top: 10em;
 	}
-	
+
 #teamHead
-	
+
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
-		margin-left: 4em;	
+		margin-left: 4em;
 	}
-	
+
 	#evan
 	{
 		float: left;
@@ -136,13 +136,13 @@ body
 		height: 11em;
 		width: 20em;
 	}
-	
+
 	#evanImg
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#illustrat
 	{
 		font-family: 'Reenie Beanie', cursive;
@@ -151,7 +151,7 @@ body
 		border-bottom: dashed 2px #ff9999;
 		float: left;
 	}
-	
+
 	#restofTeam
 	{
 		margin-top: 2em;
@@ -159,7 +159,7 @@ body
 		margin-left: 2em;
 		padding-bottom: 2em;
 	}
-	
+
 	#evan p
 	{
 		width: 20em;
@@ -171,31 +171,31 @@ body
 		margin-left: 4em;
 	}
 
-	
+
 	#evan img
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#clarence
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#clarImg
 	{
 		float: left;
 	}
-	
+
 	#clarence h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 1em;
 		margin: 0;
 	}
-	
+
 	#clarence p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -203,18 +203,18 @@ body
 		margin: 0;
 		color: goldenrod;
 	}
-	
+
 	#laura
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#laurImg
 	{
 		float: left;
 	}
-	
+
 	#laura h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -222,7 +222,7 @@ body
 		margin: 0;
 		text-align: center;
 	}
-	
+
 	#laura p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -231,18 +231,18 @@ body
 		text-align: center;
 		color: goldenrod;
 	}
-	
+
 	#kevin
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#kevImg
 	{
 		float: left;
 	}
-	
+
 	#kevin h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -250,7 +250,7 @@ body
 		margin: 0;
 		text-align: right;
 	}
-	
+
 	#kevin p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -259,11 +259,11 @@ body
 		text-align: right;
 		color: goldenrod;
 	}
-	
 
-	
-	
-	
+
+
+
+
 /* meet chico */
 #chicoPics
 	{
@@ -271,25 +271,25 @@ body
 		margin-left: 1em;
 		float: left;
 	}
-	
+
 #chico2
 	{
 		margin-left: 8.5em;
 		margin-top: 1em;
 	}
-	
+
 #chicoHeader
 	{
 		margin-left: 11em;
 		float: left;
 	}
-	
+
 #chicoHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#chicoPara
 	{
 		float: left;
@@ -299,14 +299,14 @@ body
 		border-radius: 2em;
 		padding: 1em 1em 0.5em 1em;
 	}
-	
+
 	#chicoPara p
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 0.7em;
 		text-align: center;
 	}
-	
+
 	#paint
 	{
 		float:left;
@@ -314,54 +314,54 @@ body
 		margin-top: 31.5em;
 		margin-left: 12em;
 	}
-	
+
 	#chicoNews
 	{
 		margin-top: 3em;
 		float: left;
 	}
-	
+
 	#newsHeader
 	{
 		margin-left: 9em;
 		float: left;
 	}
-	
+
 	#newsHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#waterMeet
 	{
 		position: absolute;
 	}
-	
+
 	#waterChico
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#article1
 	{
 		float: left;
 		margin-top: 2em;
 	}
-	
+
 	#article1 img
 	{
 		margin-left: 8.5em;
 	}
-	
+
 	#text1
 	{
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
 	}
-	
+
 	#article1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -370,7 +370,7 @@ body
 		font-size: 1.2em;
 		color: #ff9999;
 	}
-	
+
 	#article1 p
 	{
 		width: 30em;
@@ -379,27 +379,27 @@ body
 		margin-left: 6em;
 		text-align: center;
 		padding-bottom: 1em;
-		
+
 	}
-	
+
 	#article2
 	{
 		float: left;
 		margin-top: 2em;
 	}
-	
+
 	#article2 img
 	{
 		margin-left: 8.5em;
 	}
-	
+
 	#text2
 	{
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
 	}
-	
+
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -408,7 +408,7 @@ body
 		font-size: 1.2em;
 		color: #ff9999;
 	}
-	
+
 	#article2 p
 	{
 		width: 30em;
@@ -417,27 +417,27 @@ body
 		margin-left: 6em;
 		text-align: center;
 		padding-bottom: 1em;
-		
+
 	}
-	
+
 	#article3
 	{
 		float: left;
 		margin-top: 2em;
 	}
-	
+
 	#article3 img
 	{
 		margin-left: 8.5em;
 	}
-	
+
 	#text3
 	{
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
 	}
-	
+
 	#article3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -446,7 +446,7 @@ body
 		font-size: 1.2em;
 		color: #ff9999;
 	}
-	
+
 	#article3 p
 	{
 		width: 30em;
@@ -455,60 +455,60 @@ body
 		margin-left: 6em;
 		text-align: center;
 		padding-bottom: 1em;
-		
+
 	}
-	
-	
-/*Buy Book*/	
-	
+
+
+/*Buy Book*/
+
 #bodyBuy
 	{
 		background-image: url(../img/buy/bckgrnd.png);
 	}
-	
+
 #buyHeader
 	{
 		margin-left: 8em;
 		margin-top: 3em;
 		margin-right: 7em;
 	}
-	
+
 #buyHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#waterBuy
 	{
 		position: absolute;
 		margin-right: 3em;
 	}
-	
+
 #bookImage
 	{
 		margin-left: 7em;
 	}
-	
+
 #title
 	{
 		margin-left: 6em;
 		margin-top: 2em;
 	}
-	
+
 #title h3
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.5em;
 		border-bottom: 2px solid #ccffcc;
 	}
-	
+
 #summary
 	{
 		width: 20em;
 		margin-left: 3.8em;
 	}
-	
+
 #summary p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -537,12 +537,12 @@ body
 	box-shadow: 0em 0.3em 0.5em grey;
 		margin-left: 2em;
 	}
-	
+
 	#BuyNow:hover
 	{
 		background-color: #ffcccc;
 	}
-	
+
 	#learnBuyBut:hover
 	{
 		background-color: #ffcccc;
@@ -553,10 +553,10 @@ body
 	{
 		height: 7em;
 	}
-	
-	
-	
-/* home*/	
+
+
+
+/* home*/
 #nav
 {
 	background-color: #ffff99;
@@ -565,32 +565,32 @@ body
 	box-shadow: 0rem 0.5em 1em #c2c24e;
 	width: 28em;
 }
-	
+
 #writeus1
 	{
 		display: none;
 	}
-	
+
 #writeus2
 	{
 		display: none;
 	}
-	
+
 #sendletter
 	{
 		display:none;
 	}
-	
+
 #note
 	{
 		display: none;
 	}
-	
+
 #desktopNav
 	{
 		display: none;
 	}
-	
+
 	#whiteLogo
 	{
 		display: none;
@@ -653,7 +653,7 @@ body
 	background-color: #ffff66;
 }
 
-.show 
+.show
 {
 	display: block;
 }
@@ -739,7 +739,7 @@ body
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #c2c24e;
-	
+
 }
 
 #donate:hover
@@ -852,7 +852,7 @@ body
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #db8383;
-	
+
 }
 
 #buttonstory2
@@ -872,7 +872,7 @@ margin-top: 3em;
 	box-shadow: 0em 0.3em 0.5em #db8383;
 	z-index: 1;
 	position: absolute;
-	
+
 }
 
 
@@ -883,7 +883,7 @@ margin-top: 3em;
 	background-color: #ccffcc;
 
 }
-	
+
 #supportHead
 	{
 		height: 2em;
@@ -934,7 +934,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #99cc99;
-	
+
 }
 
 #or
@@ -950,7 +950,7 @@ margin-top: 3em;
 	font-size: 1.5em;
 	font-family: 'Reenie Beanie', cursive;
 	position: absolute;
-	
+
 }
 
 
@@ -962,7 +962,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #99cc99;
-	
+
 }
 
 #buttonsup2
@@ -993,7 +993,7 @@ margin-top: 3em;
 {
 	position: absolute;
 	margin-left: 24em;
-	
+
 }
 
 #headerstain2
@@ -1005,7 +1005,7 @@ margin-top: 3em;
 
 #footer
 {
-	background-color: black; 
+	background-color: black;
 	height: 15em;
 
 }
@@ -1063,7 +1063,7 @@ margin-top: 3em;
 {
 	float: right;
 	margin-left: 0.5em;
-	
+
 }
 
 #copyright p
@@ -1074,17 +1074,17 @@ margin-top: 3em;
 	margin-top: 0.5em;
 	margin-right: 1em;
 }
-	
+
 	#Desktoplogo
 	{
 		display: none;
 	}
-	
+
 	#pawIndent
 	{
 		display: none;
 	}
-	
+
 	#footerNav
 	{
 		display: none;
@@ -1096,23 +1096,23 @@ margin-top: 3em;
 
 @media screen and (min-width: 40em) {
 
-	
+
 	/*contact us*/
-	
+
 	#contactBody
 	{
 		background-color: #ccffcc;
 	}
-	
+
 #contactHead h2
 	{
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 2em;	
+		font-size: 2em;
 		margin-left: 8em;
 		float: left;
 		margin-top: 1em;
 	}
-	
+
 	#needHelp
 	{
 		background-color: black;
@@ -1120,7 +1120,7 @@ margin-top: 3em;
 		margin-top: 2em;
 		margin-left: 7em;
 	}
-	
+
 	#help1
 	{
 		color: white;
@@ -1130,7 +1130,7 @@ margin-top: 3em;
 		padding-top: 1em;
 		text-align: center;
 	}
-	
+
 	#help2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1139,7 +1139,7 @@ margin-top: 3em;
 		padding-right: 5em;
 		text-align: center;
 	}
-	
+
 	#contactForm
 	{
 		height: 40em;
@@ -1148,7 +1148,7 @@ margin-top: 3em;
 		margin-left: 2em;
 		padding-bottom: 3em;
 	}
-	
+
 /*meet jen*/
 
 	#meetjen
@@ -1157,20 +1157,20 @@ margin-top: 3em;
 		margin-top: 5em;
 		margin-left: 5em;
 	}
-	
+
 	#meetjen h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 		margin-left: 6em;
 	}
-	
+
 	#jenCartoon
 	{
 		margin-left: 1em;
 		float: left;
 	}
-	
+
 	#meetjen p
 	{
 		width: 25em;
@@ -1182,29 +1182,29 @@ margin-top: 3em;
 		float: left;
 		position: absolute;
 	}
-	
+
 	#swipe
 	{
 		margin-left: 10em;
 		margin-top: 25em;
 		position: absolute;
-		
+
 	}
-	
+
 	#meettheteam
 	{
 		margin-top: 15em;
 		margin-left: 10em;
 	}
-	
+
 #teamHead
-	
+
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
-		margin-left: 4em;	
+		margin-left: 4em;
 	}
-	
+
 	#evan
 	{
 		float: left;
@@ -1214,13 +1214,13 @@ margin-top: 3em;
 		height: 11em;
 		width: 20em;
 	}
-	
+
 	#evanImg
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#illustrat
 	{
 		font-family: 'Reenie Beanie', cursive;
@@ -1229,7 +1229,7 @@ margin-top: 3em;
 		border-bottom: dashed 2px #ff9999;
 		float: left;
 	}
-	
+
 	#restofTeam
 	{
 		margin-top: 2em;
@@ -1237,7 +1237,7 @@ margin-top: 3em;
 		margin-left: 2em;
 		padding-bottom: 2em;
 	}
-	
+
 	#evan p
 	{
 		width: 20em;
@@ -1249,31 +1249,31 @@ margin-top: 3em;
 		margin-left: 4em;
 	}
 
-	
+
 	#evan img
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#clarence
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#clarImg
 	{
 		float: left;
 	}
-	
+
 	#clarence h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 1em;
 		margin: 0;
 	}
-	
+
 	#clarence p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1281,18 +1281,18 @@ margin-top: 3em;
 		margin: 0;
 		color: goldenrod;
 	}
-	
+
 	#laura
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#laurImg
 	{
 		float: left;
 	}
-	
+
 	#laura h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1300,7 +1300,7 @@ margin-top: 3em;
 		margin: 0;
 		text-align: center;
 	}
-	
+
 	#laura p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1309,18 +1309,18 @@ margin-top: 3em;
 		text-align: center;
 		color: goldenrod;
 	}
-	
+
 	#kevin
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#kevImg
 	{
 		float: left;
 	}
-	
+
 	#kevin h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1328,7 +1328,7 @@ margin-top: 3em;
 		margin: 0;
 		text-align: right;
 	}
-	
+
 	#kevin p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1337,9 +1337,9 @@ margin-top: 3em;
 		text-align: right;
 		color: goldenrod;
 	}
-		
-	
-	
+
+
+
 /* meet chico */
 #chicoPics
 	{
@@ -1347,13 +1347,13 @@ margin-top: 3em;
 		margin-left: 1em;
 		float: left;
 	}
-	
+
 #chico1
 	{
 		width: 244px;
 		height: 161px;
 	}
-	
+
 #chico2
 	{
 		margin-left: 8.5em;
@@ -1361,19 +1361,19 @@ margin-top: 3em;
 		width: 264px;
 		height: 181px;
 	}
-	
+
 #chicoHeader
 	{
 		margin-left: 17em;
 		float: left;
 	}
-	
+
 #chicoHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#chicoPara
 	{
 		float: left;
@@ -1384,14 +1384,14 @@ margin-top: 3em;
 		padding: 1em 1em 0.5em 1em;
 		margin-top: 2em;
 	}
-	
+
 	#chicoPara p
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 0.7em;
 		text-align: center;
 	}
-	
+
 	#paint
 	{
 		float:left;
@@ -1399,37 +1399,37 @@ margin-top: 3em;
 		margin-top: 35em;
 		margin-left: 18em;
 	}
-	
+
 	#chicoNews
 	{
 		margin-top: 3em;
 		float: left;
 	}
-	
+
 	#newsHeader
 	{
 		margin-left: 15em;
 		margin-top: 5em;
 		float: left;
 	}
-	
+
 	#newsHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#waterMeet
 	{
 		position: absolute;
 	}
-	
+
 	#waterChico
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#article1
 	{
 		float: left;
@@ -1437,7 +1437,7 @@ margin-top: 3em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 	}
-	
+
 	#article1 img
 	{
 		margin-left: 2em;
@@ -1445,9 +1445,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1458,7 +1458,7 @@ margin-top: 3em;
 		margin-top: 1em;
 
 	}
-	
+
 	#article1 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1467,9 +1467,9 @@ margin-top: 3em;
 		padding-bottom: 1em;
 		width: 20em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore
 	{
 
@@ -1478,9 +1478,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1490,25 +1490,25 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
+
 	#article2
 	{
 		float: left;
 		margin-top: 2em;
 	}
-	
+
 	#article2 img
 	{
 		margin-left: 8.5em;
 	}
-	
+
 	#text2
 	{
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
 	}
-	
+
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1517,7 +1517,7 @@ margin-top: 3em;
 		font-size: 1.2em;
 		color: #ff9999;
 	}
-	
+
 	#article2
 	{
 		float: left;
@@ -1525,7 +1525,7 @@ margin-top: 3em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 	}
-	
+
 	#article2 img
 	{
 		margin-left: 2em;
@@ -1533,9 +1533,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1545,7 +1545,7 @@ margin-top: 3em;
 		margin-left: 2em;
 
 	}
-	
+
 	#article2 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1554,9 +1554,9 @@ margin-top: 3em;
 		padding-bottom: 1em;
 		width: 20em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore2
 	{
 
@@ -1565,9 +1565,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore2 a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1577,7 +1577,7 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
+
 	#article3
 	{
 		float: left;
@@ -1585,7 +1585,7 @@ margin-top: 3em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 	}
-	
+
 	#article3 img
 	{
 		margin-left: 2em;
@@ -1593,9 +1593,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1606,7 +1606,7 @@ margin-top: 3em;
 		margin-top: 1em;
 
 	}
-	
+
 	#article3 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1615,9 +1615,9 @@ margin-top: 3em;
 		padding-bottom: 1em;
 		width: 20em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore3
 	{
 
@@ -1626,9 +1626,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore3 a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1638,66 +1638,66 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
 /*buy book*/
-	
+
 #bodyBuy
 	{
 		background-image: url(../img/buy/bckgrnd.png);
 	}
-	
+
 #buyHeader
 	{
 		margin-left: 15em;
 		margin-top: 3em;
 		margin-right: 10em;
 	}
-	
+
 #buyHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 		margin-left: 1em;
 	}
-	
+
 	#waterBuy
 	{
 		position: absolute;
 	}
-	
+
 #bookImage
 	{
 		margin-left: 1em;
 		margin-top: 3em;
 		float: left;
 	}
-	
+
 	#bookCover
 	{
 		width: 321px;
 		height: 321px;
 	}
-	
+
 #title
 	{
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
 	}
-	
+
 #title h3
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.5em;
 		border-bottom: 2px solid #ccffcc;
 	}
-	
+
 #summary
 	{
 		width: 17em;
@@ -1706,7 +1706,7 @@ margin-top: 3em;
 		margin-top: 12em;
 		margin-left: 23em;
 	}
-	
+
 #summary p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -1734,12 +1734,12 @@ margin-top: 3em;
 	box-shadow: 0em 0.3em 0.5em grey;
 		margin-left: 2em;
 	}
-	
+
 	#BuyNow:hover
 	{
 		background-color: #ffcccc;
 	}
-	
+
 	#learnBuyBut:hover
 	{
 		background-color: #ffcccc;
@@ -1752,9 +1752,9 @@ margin-top: 3em;
 		margin-left: 9em;
 		margin-top: 1em;
 	}
-		
-	
-	
+
+
+
 /*home*/
 #nav
 {
@@ -1764,37 +1764,37 @@ margin-top: 3em;
 	box-shadow: 0rem 0.5em 1em #c2c24e;
 	min-width: 40em;
 }
-	
+
 	#writeus1
 	{
 		display: none;
 	}
-	
+
 	#writeus2
 	{
 		display: none;
 	}
-	
+
 	#sendletter
 	{
 		display:none;
 	}
-	
+
 	#note
 	{
 		display: none;
 	}
-	
+
 #desktopNav
 	{
 		display: none;
 	}
-	
+
 	#whiteLogo
 	{
 		display: none;
 	}
-	
+
 #Desktoplogo
 	{
 		display: none;
@@ -1855,7 +1855,7 @@ margin-top: 3em;
 	background-color: #ffff66;
 }
 
-.show 
+.show
 {
 	display: block;
 }
@@ -1939,7 +1939,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #c2c24e;
-	
+
 }
 
 #donate:hover
@@ -2054,7 +2054,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #db8383;
-	
+
 }
 
 #buttonstory2
@@ -2074,7 +2074,7 @@ margin-top: 3em;
 	box-shadow: 0em 0.3em 0.5em #db8383;
 	z-index: 1;
 	position: absolute;
-	
+
 }
 
 
@@ -2128,7 +2128,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #99cc99;
-	
+
 }
 
 #or
@@ -2144,7 +2144,7 @@ margin-top: 3em;
 	position: absolute;
 	margin-left: 9.2em;
 	margin-top: 5.2em;
-	
+
 }
 
 
@@ -2156,7 +2156,7 @@ margin-top: 3em;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.25rem;
 	box-shadow: 0em 0.3em 0.5em #99cc99;
-	
+
 }
 
 #buttonsup2
@@ -2252,7 +2252,7 @@ margin-top: 3em;
 {
 	float: right;
 	margin-left: 0.5em;
-	
+
 }
 
 #copyright p
@@ -2263,12 +2263,12 @@ margin-top: 3em;
 	margin-top: 1em;
 	margin-right: 1em;
 }
-	
+
 	#pawIndent
 	{
 		display: none;
 	}
-	
+
 	#footerNav
 	{
 		display: none;
@@ -2279,28 +2279,28 @@ margin-top: 3em;
 
 
 @media screen and (min-width: 64em){
-	
-	
+
+
 	/*contact us*/
-	
+
 	#contactBody
 	{
 		background-color: #ccffcc;
 	}
-	
+
 	#contactHead
 	{
 		margin-top: 5em;
 	}
-	
+
 #contactHead h2
 	{
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 2em;	
+		font-size: 2em;
 		margin-left: 18em;
 		float: left;
 	}
-	
+
 	#needHelp
 	{
 		background-color: black;
@@ -2309,7 +2309,7 @@ margin-top: 3em;
 		margin-left: 10em;
 		width: 60em;
 	}
-	
+
 	#help1
 	{
 		color: white;
@@ -2319,7 +2319,7 @@ margin-top: 3em;
 		padding-top: 1em;
 		text-align: center;
 	}
-	
+
 	#help2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2328,7 +2328,7 @@ margin-top: 3em;
 		padding-right: 5em;
 		text-align: center;
 	}
-	
+
 	#contactForm
 	{
 		height: 45em;
@@ -2345,22 +2345,22 @@ margin-top: 3em;
 		margin-top: 8em;
 		margin-left: 10em;
 	}
-	
+
 	#meetjen h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 		margin-left: 6em;
 	}
-	
+
 	#jenCartoon
 	{
-		
+
 		float: left;
 		width: 250px;
 		height: 290px;
 	}
-	
+
 	#meetjen p
 	{
 		width: 40em;
@@ -2372,29 +2372,29 @@ margin-top: 3em;
 		float: left;
 		position: absolute;
 	}
-	
+
 	#swipe
 	{
 		margin-left: 10em;
 		margin-top: 15em;
 		position: absolute;
-		
+
 	}
-	
+
 	#meettheteam
 	{
 		margin-top: 5em;
 		margin-left: 10em;
 	}
-	
+
 #teamHead
-	
+
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
-		margin-left: 4em;	
+		margin-left: 4em;
 	}
-	
+
 	#evan
 	{
 		float: left;
@@ -2404,13 +2404,13 @@ margin-top: 3em;
 		height: 11em;
 		width: 20em;
 	}
-	
+
 	#evanImg
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#illustrat
 	{
 		font-family: 'Reenie Beanie', cursive;
@@ -2419,7 +2419,7 @@ margin-top: 3em;
 		border-bottom: dashed 2px #ff9999;
 		float: left;
 	}
-	
+
 	#restofTeam
 	{
 		margin-top: 2em;
@@ -2427,7 +2427,7 @@ margin-top: 3em;
 		margin-left: 10em;
 		padding-bottom: 2em;
 	}
-	
+
 	#evan p
 	{
 		width: 20em;
@@ -2439,31 +2439,31 @@ margin-top: 3em;
 		margin-left: 4em;
 	}
 
-	
+
 	#evan img
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#clarence
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#clarImg
 	{
 		float: left;
 	}
-	
+
 	#clarence h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 1em;
 		margin: 0;
 	}
-	
+
 	#clarence p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2471,18 +2471,18 @@ margin-top: 3em;
 		margin: 0;
 		color: goldenrod;
 	}
-	
+
 	#laura
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#laurImg
 	{
 		float: left;
 	}
-	
+
 	#laura h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2490,7 +2490,7 @@ margin-top: 3em;
 		margin: 0;
 		text-align: center;
 	}
-	
+
 	#laura p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2499,18 +2499,18 @@ margin-top: 3em;
 		text-align: center;
 		color: goldenrod;
 	}
-	
+
 	#kevin
 	{
 		float: left;
 		margin-left: 1em;
 	}
-	
+
 	#kevImg
 	{
 		float: left;
 	}
-	
+
 	#kevin h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2518,7 +2518,7 @@ margin-top: 3em;
 		margin: 0;
 		text-align: right;
 	}
-	
+
 	#kevin p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2527,10 +2527,10 @@ margin-top: 3em;
 		text-align: right;
 		color: goldenrod;
 	}
-		
-	
-	
-	
+
+
+
+
 /* meet chico */
 #chicoPics
 	{
@@ -2538,13 +2538,13 @@ margin-top: 3em;
 		margin-left: 14em;;
 		float: left;
 	}
-	
+
 #chico1
 	{
 		width: 244px;
 		height: 161px;
 	}
-	
+
 #chico2
 	{
 		margin-left: 8.5em;
@@ -2552,19 +2552,19 @@ margin-top: 3em;
 		width: 264px;
 		height: 181px;
 	}
-	
+
 #chicoHeader
 	{
 		margin-left: 29em;
 		float: left;
 	}
-	
+
 #chicoHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#chicoPara
 	{
 		float: left;
@@ -2575,14 +2575,14 @@ margin-top: 3em;
 		padding: 1em 1em 0.5em 1em;
 		margin-top: 2em;
 	}
-	
+
 	#chicoPara p
 	{
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 0.9em;
 		text-align: center;
 	}
-	
+
 	#paint
 	{
 		float:left;
@@ -2590,37 +2590,37 @@ margin-top: 3em;
 		margin-top: 37em;
 		margin-left: 32em;
 	}
-	
+
 	#chicoNews
 	{
 		margin-top: 3em;
 		float: left;
 	}
-	
+
 	#newsHeader
 	{
 		margin-left: 29em;
 		margin-top: 5em;
 		float: left;
 	}
-	
+
 	#newsHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 	}
-	
+
 	#waterMeet
 	{
 		position: absolute;
 	}
-	
+
 	#waterChico
 	{
 		float: left;
 		position: absolute;
 	}
-	
+
 	#article1
 	{
 		float: left;
@@ -2629,7 +2629,7 @@ margin-top: 3em;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-left: 10em;
 	}
-	
+
 	#article1 img
 	{
 		margin-left: 2em;
@@ -2637,9 +2637,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2650,7 +2650,7 @@ margin-top: 3em;
 		margin-top: 1em;
 
 	}
-	
+
 	#article1 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2659,9 +2659,9 @@ margin-top: 3em;
 		width: 30em;
 		padding-bottom: 1em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore
 	{
 
@@ -2670,9 +2670,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2682,7 +2682,7 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
+
 	#article2
 	{
 		float: left;
@@ -2691,7 +2691,7 @@ margin-top: 3em;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-left: 10em;
 	}
-	
+
 	#article2 img
 	{
 		margin-left: 2em;
@@ -2699,9 +2699,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2712,7 +2712,7 @@ margin-top: 3em;
 		margin-top: 1em;
 
 	}
-	
+
 	#article2 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2721,9 +2721,9 @@ margin-top: 3em;
 		width: 30em;
 		padding-bottom: 1em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore2
 	{
 
@@ -2732,9 +2732,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore2 a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2744,7 +2744,7 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
+
 	#article3
 	{
 		float: left;
@@ -2753,7 +2753,7 @@ margin-top: 3em;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-left: 10em;
 	}
-	
+
 	#article3 img
 	{
 		margin-left: 2em;
@@ -2761,9 +2761,9 @@ margin-top: 3em;
 		float: left;
 		padding-bottom: 2em;
 	}
-	
 
-	
+
+
 	#article3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2774,7 +2774,7 @@ margin-top: 3em;
 		margin-top: 1em;
 
 	}
-	
+
 	#article3 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2783,9 +2783,9 @@ margin-top: 3em;
 		width: 30em;
 		padding-bottom: 1em;
 		float: left;
-		
+
 	}
-	
+
 	#readMore3
 	{
 
@@ -2794,9 +2794,9 @@ margin-top: 3em;
 		position: absolute;
 		margin-top: 10em;
 	}
-	
 
-	
+
+
 	#readMore3 a h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2806,22 +2806,22 @@ margin-top: 3em;
 		list-style-type: none;
 
 	}
-	
-/*buy book*/	
-	
+
+/*buy book*/
+
 	#buyHeader
 	{
 		margin-left: 24em;
 		margin-top: 8em;
 		margin-right: 10em;
 	}
-	
+
 #buyHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2.5em;
 	}
-	
+
 	#waterBuy
 	{
 		position: absolute;
@@ -2829,34 +2829,34 @@ margin-top: 3em;
 		height: 78px;
 		margin: 0;
 	}
-	
+
 #bookImage
 	{
 		margin-left: 13em;
 		margin-top: 3em;
 		float: left;
 	}
-	
+
 	#bookCover
 	{
 		width: 321px;
 		height: 321px;
 	}
-	
+
 #title
 	{
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
 	}
-	
+
 #title h3
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
 		border-bottom: 2px solid #ccffcc;
 	}
-	
+
 #summary
 	{
 		width: 19em;
@@ -2865,7 +2865,7 @@ margin-top: 3em;
 		margin-top: 18em;
 		margin-left: 35em;
 	}
-	
+
 #summary p
 	{
 		font-family: 'Didact Gothic', sans-serif;
@@ -2893,12 +2893,12 @@ margin-top: 3em;
 	box-shadow: 0em 0.3em 0.5em grey;
 		margin-left: 2em;
 	}
-	
+
 	#BuyNow:hover
 	{
 		background-color: #ffcccc;
 	}
-	
+
 	#learnBuyBut:hover
 	{
 		background-color: #ffcccc;
@@ -2909,19 +2909,19 @@ margin-top: 3em;
 	{
 		height: 7em;
 	}
-		
-	
+
+
 /*home*/
 	#logo
 	{
 		display:none;
 	}
-	
+
 	#nav
 	{
 		display: none;
 	}
-	
+
 	#desktopNav
 	{
 		display: block;
@@ -2931,36 +2931,36 @@ margin-top: 3em;
 		margin-top: 2em;
 		margin: 0 auto;
 	}
-	
+
 	#buyBook
 	{
 		display: none;
 	}
-	
+
 	#hamMenu
 	{
 		display: none;
 	}
-	
-	
-	
+
+
+
 	#navpart1
 	{
-		list-style-type: none; 
+		list-style-type: none;
 		margin: 0;
  		padding: 0;
 		float: left;
 
 
 	}
-	
+
 	#navpart1 li
 	{
 		display: inline;
 		float: left;
 		margin-left: 2em;
 	}
-	
+
 	#navpart1 li a
 	{
 		display: block;
@@ -2972,7 +2972,7 @@ margin-top: 3em;
 		color: black;
 
 	}
-	
+
 	#Desktoplogo
 	{
 		float: left;
@@ -2981,7 +2981,7 @@ margin-top: 3em;
 		display: block;
 
 	}
-	
+
 	#mainlogo
 	{
 		height: 12.5em;
@@ -2990,10 +2990,10 @@ margin-top: 3em;
 		margin: 0;
 		margin-left: 28em;
 	}
-	
+
 	#navpart2
 	{
-		list-style-type: none; 
+		list-style-type: none;
 		margin: 0;
  		padding: 0;
 		float: left;
@@ -3001,19 +3001,19 @@ margin-top: 3em;
 
 
 	}
-	
+
 	#navpart2 li
 	{
 		display: inline;
 		float: left;
 		margin-left: 2em;
 	}
-	
+
 	#contact
 	{
 		margin-left: 16em;
 	}
-	
+
 	#navpart2 li a
 	{
 		display: block;
@@ -3024,7 +3024,7 @@ margin-top: 3em;
 		font-size: 1.6em;
 		color: black;
 	}
-	
+
 	#mainBuybut
 	{
 		padding: 0.5em 1em 0.5em 1em;
@@ -3038,12 +3038,12 @@ margin-top: 3em;
 		margin-left: 1.3em;
 
 	}
-	
+
 	#mainBuybut:hover
 	{
 		background-color: #ff9999;
 	}
-	
+
 	.navPaw
 	{
 		display: none;
@@ -3053,7 +3053,7 @@ margin-top: 3em;
 		padding: 0;
 		margin-top: 1.8em;
 	}
-	
+
 	#paw1
 	{
 		display: none;
@@ -3063,14 +3063,14 @@ margin-top: 3em;
 		padding: 0;
 		margin-top: 1.8em;
 	}
-	
+
 	#welcome
 	{
 		margin-top: 6em;
 		width: 80em;
 		height: 30em;
 	}
-	
+
 	#titleContainer
 {
 		background-color: #ccffcc;
@@ -3082,19 +3082,19 @@ margin-top: 3em;
 		position: absolute;
 		z-index: 0;
 }
-	
+
 	#headerTitle
 	{
 		min-width:64em;
 		width: 80em;
 	}
-	
+
 	#ChicoCharity
 	{
 		margin-top: 0.3em;
 		margin-left: 10.5em;
 	}
-	
+
 	#whiteLogo
 	{
 		display: none;
@@ -3103,34 +3103,34 @@ margin-top: 3em;
 		position: absolute;
 		z-index: 1;
 	}
-	
+
 	#welcomeContent
 	{
 		margin-top: 10em;
 	}
-	
+
 	#welcomePic
 	{
 		width: 250px;
 		height: 250px;
 	}
-	
+
 	#introImg
 	{
 		width: 18.75em;
 		margin-left: 13em;
 	}
-	
+
 	#buttonhead
 	{
 		margin-left: 16em;
 	}
-	
+
 	#splat
 	{
 		margin-left: 48em;
 	}
-	
+
 	#ourStory
 	{
 		width: 80em;
@@ -3142,186 +3142,186 @@ margin-top: 3em;
 		background-color: #ff9999;
 
 	}
-	
+
 	#storyDiv
 	{
 		margin-right: 30em;
 		margin-left: 35em;
 
 	}
-	
+
 	#storyHeader
 	{
 		font-size: 2.5em;
 	}
-	
+
 	#buttonstory1
 	{
 		margin: 0;
 		margin-left: 14em;
 		margin-top: 5em;
 	}
-	
+
 	#buttonstory2
 	{
 		margin: 0;
 		margin-top: 5em;
 		margin-left: 1em;
 	}
-	
+
 	#storyContent
 	{
 		width: 80em;
 		height: 20em;
 
 	}
-	
+
 	#storyimg
 	{
 		height: 231px;
 		width: 482px;
 
 	}
-	
+
 	#storyPic
 	{
 		width: 30em;
 		margin-left: 8em;
 		margin-top: 2em;
 	}
-	
+
 	#para1
 	{
 		margin-top: 3em;
 	}
-	
+
 	#storyPara
 	{
 		font-size: 1em;
 	}
-	
+
 	#splat2
 	{
 		margin-left: 70em;
 	}
-	
+
 	#note
 	{
 		display: block;
 		margin-left: 20em;
 		float: left;
 	}
-	
+
 	#support
 	{
 		height: 30em;
 	}
-	
+
 	#supportHead
 	{
 		background-color: red;
 		margin-left: 27em;
 		margin-top: 2em;
 	}
-	
+
 	#headerstain2
 	{
 		margin-left: 27em;
 	}
-	
+
 	#para2
 	{
 
 		margin-left:40em;
 		margin-top: 6.5em;
 	}
-	
+
 	#waterstain
 	{
 		margin-top: 25em;
 	}
-	
-	
+
+
 	#buttonsup1
 	{
 		margin-top: 15em;
 		margin-left: 40em;
 	}
-	
+
 	#buttonsup2
 	{
 		margin-top: 15em;
 		margin-left: 50em;
 	}
-	
+
 	#or
 	{
 		margin-left: 34em;
 		margin-top: 7em;
 		position: absolute;
 	}
-	
+
 	#topstain
 	{
 		margin-left: 75em;
 	}
-	
+
 	#backtotop
 	{
 		display:none;
 	}
-	
+
 	#footer
 	{
 		height: 30em;
-		
+
 	}
-	
+
 	#letter
 	{
 		margin-left: 5em;
 		margin-top: 2em;
 	}
-	
+
 	#sendletter
 	{
-		display: block;	
+		display: block;
 		float: left;
 	}
-	
+
 	#fastenvelope
 	{
 		width: 30em;
 		margin-left: 10em;
 	}
-	
+
 	#envelope
 	{
 		display: none;
 	}
-	
+
 	#writeus1
 	{
 		display: block;
 		margin-top: 5em;
 
 	}
-	
+
 	#writeus1 p
 	{
 		color: white;
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 1.2em;
 	}
-	
+
 	#writeus2
 	{
 		display:block;
 		width: 10em;
 		margin-left: 51em;
-	
+
 	}
-	
+
 	#writeus2 p
 	{
 		color: white;
@@ -3329,7 +3329,7 @@ margin-top: 3em;
 		font: 1.6em;
 		text-align: center;
 	}
-	
+
 	#pawIndent
 	{
 		display: block;
@@ -3337,37 +3337,37 @@ margin-top: 3em;
 		float: left;
 		width: 10em;
 	}
-	
+
 	#socialmedia
 	{
 		float: right;
 		margin-top: 5em;
 		margin-right: 5em;
 	}
-	
+
 	#copyright
 	{
 		float: left;
 	}
-	
+
 #footerNav
 	{
 		display:block;
-		list-style-type: none; 
+		list-style-type: none;
 		margin: 0;
  		padding: 0;
 		height: 10em;
 		width: 15em;
 
 	}
-	
+
 	#footerNav li
 	{
 		float: left;
 		display: inline;
 		margin-left: 1em;
 	}
-	
+
 	#footerNav li a
 	{
 		display: block;
@@ -3379,86 +3379,91 @@ margin-top: 3em;
 		text-align:left;
 
 	}
-	
+
+}
+
+#join
+{
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 70em){
-	
-	
+
+
 	/*meet chico*/
-	
+
 	#meetChico
 	{
 		margin-left: 7em;
 	}
-	
+
 	#chicoNews
 	{
 		margin-left: 7em;
-		
+
 	}
-	
+
 	/*buy book*/
-	
+
 	#buyAbook
 	{
 		margin-left: 6em;
 	}
-	
+
 	/*home*/
 	#navpart1
 	{
 		margin-left: 14em;
 		margin-top: 0.6em;
 	}
-	
+
 	#whiteLogo
 	{
 		display: block;
 	}
-	
-	
+
+
 	#navpart1 li
 	{
 		margin-left: 1em;
 	}
-	
+
 	#navpart1 li a
 	{
 		font-size: 1.4em;
 	}
-	
+
 	#navpart2
 	{
 		width: 18em;
 		margin-left: 10em;
 		margin-top: 0.6em;
 	}
-	
+
 	#navpart2 li
 	{
 		margin-left: 1em;
 	}
-	
+
 	#navpart2 li a
 	{
 		font-size: 1.4em;
 	}
-	
+
 	#mainlogo
 	{
 		margin-left: 35em;
 	}
-	
+
 	#mainBuybut
 	{
 		margin-left: 0
 	}
-	
+
 	#ChicoCharity
 	{
 		margin-left: 13.7em;
 	}
-	
-	
+
+
 }
