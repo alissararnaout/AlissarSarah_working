@@ -30,7 +30,32 @@ body
 	width: 28em;
 }
 	
+#writeus1
+	{
+		display: none;
+	}
+	
+#writeus2
+	{
+		display: none;
+	}
+	
+#sendletter
+	{
+		display:none;
+	}
+	
+#note
+	{
+		display: none;
+	}
+	
 #desktopNav
+	{
+		display: none;
+	}
+	
+	#whiteLogo
 	{
 		display: none;
 	}
@@ -210,7 +235,7 @@ body
 {
 	background-color: #ff9999;
 	height: 22.25em;
-	width: 28em;
+
 }
 
 #storyHeader
@@ -218,6 +243,7 @@ body
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 2.095em;
 	float: left;
+	margin-left: 1em;
 
 }
 
@@ -242,7 +268,7 @@ body
 {
 	background-color: #ffb7b7;
 	width: 27em;
-	height: 11em;
+	height: 15em;
 	float: left;
 
 }
@@ -279,7 +305,7 @@ body
 {
 	float: left;
 	margin-left: 4em;
-	margin-top: 1em;
+	margin-top: 3em;
 }
 
 #jenbut
@@ -297,7 +323,7 @@ body
 {
 	float: left;
 	margin-left: 3.125em;
-		margin-top: 1em;
+margin-top: 3em;
 }
 
 #chibut
@@ -319,7 +345,7 @@ body
 	margin: 0 auto;
 	height: 15.375em;
 	background-color: #ccffcc;
-	width: 28em;
+
 }
 	
 #supportHead
@@ -445,7 +471,7 @@ body
 {
 	background-color: black; 
 	height: 15em;
-	width: 28em;
+
 }
 
 #letter
@@ -463,6 +489,7 @@ body
 
 #envelope
 {
+	display: block;
 	margin-left: 6.5em;
 	width: 5em;
 	float: left;
@@ -474,6 +501,7 @@ body
 	margin-top: 2em;
 	width: 3.75em;
 	float: left;
+	display: block;
 }
 
 #socialmedia
@@ -515,6 +543,18 @@ body
 	{
 		display: none;
 	}
+	
+	#pawIndent
+	{
+		display: none;
+	}
+	
+	#footerNav
+	{
+		display: none;
+	}
+
+
 }
 
 
@@ -529,7 +569,32 @@ body
 	min-width: 40em;
 }
 	
+	#writeus1
+	{
+		display: none;
+	}
+	
+	#writeus2
+	{
+		display: none;
+	}
+	
+	#sendletter
+	{
+		display:none;
+	}
+	
+	#note
+	{
+		display: none;
+	}
+	
 #desktopNav
+	{
+		display: none;
+	}
+	
+	#whiteLogo
 	{
 		display: none;
 	}
@@ -704,13 +769,15 @@ body
 {
 	height: 2.8em;
 	margin-top: 2em;
+	margin-left: 1em;
+
 }
 
 #ourStory
 {
 	background-color: #ff9999;
 	height: 20.25em;
-	width: 40em;
+
 }
 
 #storyHeader
@@ -724,9 +791,9 @@ body
 #storyPic
 {
 	float: left;
-	width: 209px;
+	width: 12em;
 	margin-top: 0.8125em;
-	margin-left: 0.8em;
+
 }
 
 #para1
@@ -742,9 +809,9 @@ body
 #storyContent
 {
 	background-color: #ffb7b7;
-	width: 39em;
+	width: 50em;
 	height: 9em;
-	float: left;
+
 
 }
 
@@ -820,7 +887,7 @@ body
 	margin: 0 auto;
 	height: 15.375em;
 	background-color: #ccffcc;
-	width: 40em;
+
 }
 
 #supportHeader
@@ -836,8 +903,10 @@ body
 #para2
 {
 	float: left;
-	width: 20.75em;
-	margin-left: 2em;
+	width: 18.75em;
+	margin-left: 5em;
+	margin-top: 6em;
+	position: absolute;
 }
 
 #supPara
@@ -850,7 +919,7 @@ body
 {
 	float: left;
 	margin-right: 5em;
-	margin-left: 25em;
+	margin-left: 30em;
 	margin-top: 4.75em;
 	position: absolute;
 }
@@ -877,7 +946,7 @@ body
 	font-size: 1.5em;
 	font-family: 'Reenie Beanie', cursive;
 	position: absolute;
-	margin-left: 5.8em;
+	margin-left: 9.2em;
 	margin-top: 5.2em;
 	
 }
@@ -897,7 +966,7 @@ body
 #buttonsup2
 {
 	float: left;
-	margin-left: 24em;
+	margin-left: 29em;
 	margin-top: 10.25em;
 	position: absolute;
 }
@@ -921,7 +990,7 @@ body
 #topstain
 {
 	position: absolute;
-	margin-left: 36em;
+	margin-left: 43em;
 }
 
 #headerstain2
@@ -934,12 +1003,12 @@ body
 #footer
 {
 	background-color: black;
-	width: 40em;
 	height: 11em;
 }
 
 #letter
 {
+
 	color: white;
 	font-family: 'Reenie Beanie', cursive;
 	font-size: 1.8em;
@@ -951,9 +1020,10 @@ body
 
 #envelope
 {
-	margin-left: 6.5em;
+	margin-left: 13.5em;
 	width: 5em;
 	float: left;
+	display: block;
 }
 
 #backtotop
@@ -997,6 +1067,16 @@ body
 	margin-top: 1em;
 	margin-right: 1em;
 }
+	
+	#pawIndent
+	{
+		display: none;
+	}
+	
+	#footerNav
+	{
+		display: none;
+	}
 
 }
 
@@ -1085,6 +1165,9 @@ body
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
+		width: 25em;
+		float: left;
+		margin-left: 10em;
 
 	}
 	
@@ -1092,11 +1175,12 @@ body
 	{
 		display: inline;
 		float: left;
+		margin-left: 2em;
 	}
 	
 	#contact
 	{
-		margin-left: 8em;
+		margin-left: 16em;
 	}
 	
 	#navpart2 li a
@@ -1108,7 +1192,6 @@ body
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.8em;
 		color: black;
-		margin-left: 2em;
 	}
 	
 	#mainBuybut
@@ -1118,10 +1201,10 @@ body
 		border-radius: 1em;
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.5em;
-		box-shadow: 0em 0.3em 0.5em #cccc66;
+		box-shadow: 0em 0.3em 0.5em #bcbba8;
 		margin-top: 0.7em;
 		float: left;
-		margin-left: 2em;
+		position: fixed;
 
 	}
 	
@@ -1152,8 +1235,321 @@ body
 	
 	#welcome
 	{
+		margin-top: 6em;
+		width: 80em;
+		height: 30em;
+	}
+	
+	#titleContainer
+{
+		background-color: #ccffcc;
+		border-bottom: 0.3125em solid white;
+		border-top: 0.3125em solid white;
+		height: 5em;
+		margin-top: 3em;
+		box-shadow: 0em 0.2em 1em #c2c24e;
+		position: absolute;
+		z-index: 0;
+}
+	
+	#headerTitle
+	{
+		min-width:64em;
+		width: 80em;
+	}
+	
+	#ChicoCharity
+	{
+		margin-top: 0.3em;
+		margin-left: 12.5em;
+	}
+	
+	#whiteLogo
+	{
+		display: block;
+		float: left;
+		margin-left: 68em;
+		position: absolute;
+		z-index: 1;
+	}
+	
+	#welcomeContent
+	{
+		margin-top: 10em;
+	}
+	
+	#welcomePic
+	{
+		width: 250px;
+		height: 250px;
+	}
+	
+	#introImg
+	{
+		width: 18.75em;
+		margin-left: 13em;
+	}
+	
+	#buttonhead
+	{
+		margin-left: 16em;
+	}
+	
+	#splat
+	{
+		margin-left: 48em;
+	}
+	
+	#ourStory
+	{
+		width: 80em;
+		margin: 0px;
+		height: 30em;
+		padding:0;
+		border:0;
+		margin-right: 15em;
+		background-color: #ff9999;
+
+	}
+	
+	#storyDiv
+	{
+		margin-right: 30em;
+		margin-left: 35em;
+
+	}
+	
+	#storyHeader
+	{
+		font-size: 2.5em;
+	}
+	
+	#buttonstory1
+	{
+		margin: 0;
+		margin-left: 14em;
+		margin-top: 5em;
+	}
+	
+	#buttonstory2
+	{
+		margin: 0;
+		margin-top: 5em;
+		margin-left: 1em;
+	}
+	
+	#storyContent
+	{
+		width: 80em;
+		height: 20em;
+
+	}
+	
+	#storyimg
+	{
+		height: 231px;
+		width: 482px;
+
+	}
+	
+	#storyPic
+	{
+		width: 30em;
+		margin-left: 8em;
+		margin-top: 2em;
+	}
+	
+	#para1
+	{
 		margin-top: 3em;
 	}
+	
+	#storyPara
+	{
+		font-size: 1em;
+	}
+	
+	#splat2
+	{
+		margin-left: 70em;
+	}
+	
+	#note
+	{
+		display: block;
+		margin-left: 20em;
+		float: left;
+	}
+	
+	#support
+	{
+		height: 30em;
+	}
+	
+	#supportHead
+	{
+		background-color: red;
+		margin-left: 27em;
+		margin-top: 2em;
+	}
+	
+	#headerstain2
+	{
+		margin-left: 27em;
+	}
+	
+	#para2
+	{
+
+		margin-left:40em;
+		margin-top: 6.5em;
+	}
+	
+	#waterstain
+	{
+		margin-top: 25em;
+	}
+	
+	
+	#buttonsup1
+	{
+		margin-top: 15em;
+		margin-left: 40em;
+	}
+	
+	#buttonsup2
+	{
+		margin-top: 15em;
+		margin-left: 50em;
+	}
+	
+	#or
+	{
+		margin-left: 34em;
+		margin-top: 7em;
+		position: absolute;
+	}
+	
+	#topstain
+	{
+		margin-left: 75em;
+	}
+	
+	#backtotop
+	{
+		display:none;
+	}
+	
+	#footer
+	{
+		height: 30em;
+		
+	}
+	
+	#letter
+	{
+		margin-left: 5em;
+		margin-top: 2em;
+	}
+	
+	#sendletter
+	{
+		display: block;	
+		float: left;
+	}
+	
+	#fastenvelope
+	{
+		width: 30em;
+		margin-left: 10em;
+	}
+	
+	#envelope
+	{
+		display: none;
+	}
+	
+	#writeus1
+	{
+		display: block;
+		margin-top: 5em;
+
+	}
+	
+	#writeus1 p
+	{
+		color: white;
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1.2em;
+	}
+	
+	#writeus2
+	{
+		display:block;
+		width: 10em;
+		margin-left: 51em;
+	
+	}
+	
+	#writeus2 p
+	{
+		color: white;
+		font-family: 'Didact Gothic', sans-serif;
+		font: 1.6em;
+		text-align: center;
+	}
+	
+	#pawIndent
+	{
+		display: block;
+		margin-left: 26em;
+		float: left;
+		width: 10em;
+	}
+	
+	#socialmedia
+	{
+		float: right;
+		margin-top: 5em;
+		margin-right: 5em;
+	}
+	
+	#copyright
+	{
+		float: left;
+	}
+	
+#footerNav
+	{
+		display:block;
+		list-style-type: none; 
+		margin: 0;
+ 		padding: 0;
+		height: 10em;
+		width: 15em;
+
+	}
+	
+	#footerNav li
+	{
+		float: left;
+		display: inline;
+		margin-left: 1em;
+	}
+	
+	#footerNav li a
+	{
+		display: block;
+  		padding: 0.2em 0.8em;
+ 	 	text-decoration: none;
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		color: white;
+		text-align:left;
+
+	}
+	
+	
 	
 	
 }
