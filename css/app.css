@@ -1,6 +1,5 @@
 
 
-
 .box-model {
   background: black;
   padding: 2rem 0 2rem .5rem;
@@ -22,6 +21,197 @@ body
 
 
 @media screen and (max-width: 39.9375em) {
+	
+
+/*meet jen*/
+
+	#meetjen
+	{
+		float: left;
+		margin-top: 5em;
+	}
+	
+	#meetjen h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 5em;
+	}
+	
+	#jenCartoon
+	{
+		margin-left: 1em;
+		float: left;
+	}
+	
+	#meetjen p
+	{
+		width: 25em;
+		font-size: 0.5em;
+		margin-left: 25em;
+		background-color: #ccffcc;
+		border-radius: 3em;
+		padding: 2em;
+		float: left;
+		position: absolute;
+	}
+	
+	#swipe
+	{
+		margin-left: 10em;
+		margin-top: 20em;
+		position: absolute;
+		
+	}
+	
+	#meettheteam
+	{
+		margin-top: 10em;
+	}
+	
+#teamHead
+	
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 4em;	
+	}
+	
+	#evan
+	{
+		float: left;
+		background-color: #ffffcc;
+		margin-top: 2em;
+		box-shadow: 0em 0.2em 1em #c2c24e;
+		height: 11em;
+		width: 20em;
+	}
+	
+	#evanImg
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#illustrat
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 1.5em;
+		margin-left: 1em;
+		border-bottom: dashed 2px #ff9999;
+		float: left;
+	}
+	
+	#restofTeam
+	{
+		margin-top: 2em;
+		float: left;
+		margin-left: 2em;
+		padding-bottom: 2em;
+	}
+	
+	#evan p
+	{
+		width: 20em;
+		font-size: 0.5em;
+		font-family: 'Didact Gothic', sans-serif;
+		float: left;
+		position: absolute;
+		margin-top: 5em;
+		margin-left: 4em;
+	}
+
+	
+	#evan img
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#clarence
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#clarImg
+	{
+		float: left;
+	}
+	
+	#clarence h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+	}
+	
+	#clarence p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		color: goldenrod;
+	}
+	
+	#laura
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#laurImg
+	{
+		float: left;
+	}
+	
+	#laura h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+	}
+	
+	#laura p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+		color: goldenrod;
+	}
+	
+	#kevin
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#kevImg
+	{
+		float: left;
+	}
+	
+	#kevin h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+	}
+	
+	#kevin p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+		color: goldenrod;
+	}
+	
+
+	
 	
 	
 /* meet chico */
@@ -856,6 +1046,198 @@ margin-top: 3em;
 
 @media screen and (min-width: 40em) {
 
+	
+/*meet jen*/
+
+	#meetjen
+	{
+		float: left;
+		margin-top: 5em;
+		margin-left: 5em;
+	}
+	
+	#meetjen h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 6em;
+	}
+	
+	#jenCartoon
+	{
+		margin-left: 1em;
+		float: left;
+	}
+	
+	#meetjen p
+	{
+		width: 25em;
+		font-size: 0.7em;
+		margin-left: 20em;
+		background-color: #ccffcc;
+		border-radius: 3em;
+		padding: 2em;
+		float: left;
+		position: absolute;
+	}
+	
+	#swipe
+	{
+		margin-left: 10em;
+		margin-top: 25em;
+		position: absolute;
+		
+	}
+	
+	#meettheteam
+	{
+		margin-top: 15em;
+		margin-left: 10em;
+	}
+	
+#teamHead
+	
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 4em;	
+	}
+	
+	#evan
+	{
+		float: left;
+		background-color: #ffffcc;
+		margin-top: 2em;
+		box-shadow: 0em 0.2em 1em #c2c24e;
+		height: 11em;
+		width: 20em;
+	}
+	
+	#evanImg
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#illustrat
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 1.5em;
+		margin-left: 1em;
+		border-bottom: dashed 2px #ff9999;
+		float: left;
+	}
+	
+	#restofTeam
+	{
+		margin-top: 2em;
+		float: left;
+		margin-left: 2em;
+		padding-bottom: 2em;
+	}
+	
+	#evan p
+	{
+		width: 20em;
+		font-size: 0.5em;
+		font-family: 'Didact Gothic', sans-serif;
+		float: left;
+		position: absolute;
+		margin-top: 5em;
+		margin-left: 4em;
+	}
+
+	
+	#evan img
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#clarence
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#clarImg
+	{
+		float: left;
+	}
+	
+	#clarence h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+	}
+	
+	#clarence p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		color: goldenrod;
+	}
+	
+	#laura
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#laurImg
+	{
+		float: left;
+	}
+	
+	#laura h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+	}
+	
+	#laura p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+		color: goldenrod;
+	}
+	
+	#kevin
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#kevImg
+	{
+		float: left;
+	}
+	
+	#kevin h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+	}
+	
+	#kevin p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+		color: goldenrod;
+	}
+		
+	
+	
 /* meet chico */
 #chicoPics
 	{
@@ -1795,6 +2177,200 @@ margin-top: 3em;
 
 
 @media screen and (min-width: 64em){
+	
+	/*meet jen*/
+
+	#meetjen
+	{
+		float: left;
+		margin-top: 8em;
+		margin-left: 10em;
+	}
+	
+	#meetjen h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 6em;
+	}
+	
+	#jenCartoon
+	{
+		
+		float: left;
+		width: 250px;
+		height: 290px;
+	}
+	
+	#meetjen p
+	{
+		width: 40em;
+		font-size: 0.8em;
+		margin-left: 21em;
+		background-color: #ccffcc;
+		border-radius: 3em;
+		padding: 2em;
+		float: left;
+		position: absolute;
+	}
+	
+	#swipe
+	{
+		margin-left: 10em;
+		margin-top: 15em;
+		position: absolute;
+		
+	}
+	
+	#meettheteam
+	{
+		margin-top: 5em;
+		margin-left: 10em;
+	}
+	
+#teamHead
+	
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 4em;	
+	}
+	
+	#evan
+	{
+		float: left;
+		background-color: #ffffcc;
+		margin-top: 2em;
+		box-shadow: 0em 0.2em 1em #c2c24e;
+		height: 11em;
+		width: 20em;
+	}
+	
+	#evanImg
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#illustrat
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 1.5em;
+		margin-left: 1em;
+		border-bottom: dashed 2px #ff9999;
+		float: left;
+	}
+	
+	#restofTeam
+	{
+		margin-top: 2em;
+		float: left;
+		margin-left: 10em;
+		padding-bottom: 2em;
+	}
+	
+	#evan p
+	{
+		width: 20em;
+		font-size: 0.5em;
+		font-family: 'Didact Gothic', sans-serif;
+		float: left;
+		position: absolute;
+		margin-top: 5em;
+		margin-left: 4em;
+	}
+
+	
+	#evan img
+	{
+		float: left;
+		position: absolute;
+	}
+	
+	#clarence
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#clarImg
+	{
+		float: left;
+	}
+	
+	#clarence h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+	}
+	
+	#clarence p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		color: goldenrod;
+	}
+	
+	#laura
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#laurImg
+	{
+		float: left;
+	}
+	
+	#laura h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+	}
+	
+	#laura p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: center;
+		color: goldenrod;
+	}
+	
+	#kevin
+	{
+		float: left;
+		margin-left: 1em;
+	}
+	
+	#kevImg
+	{
+		float: left;
+	}
+	
+	#kevin h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+	}
+	
+	#kevin p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		margin: 0;
+		text-align: right;
+		color: goldenrod;
+	}
+		
+	
+	
 	
 /* meet chico */
 #chicoPics
