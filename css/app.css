@@ -10,6 +10,7 @@
 body
 {
 	background-color: #ffff66;
+	margin: 0 auto;
 }
 
 #navShadow
@@ -97,7 +98,7 @@ body
   	position: absolute;
 	margin-top: 5.5em;
 	margin-left: 0.5em;;
-	background-color: #ffff99;
+	background-color: white;
 	padding: 1em 4em 1em 4em;
 	z-index: 1;
 }
@@ -1119,6 +1120,7 @@ margin-top: 3em;
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
+		margin-left: 2em;
 
 	}
 	
@@ -1136,7 +1138,7 @@ margin-top: 3em;
   		padding: 0.7em 1em;
  	 	text-decoration: none;
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 1.8em;
+		font-size: 1.6em;
 		color: black;
 
 	}
@@ -1165,9 +1167,9 @@ margin-top: 3em;
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
-		width: 25em;
+		width: 23em;
 		float: left;
-		margin-left: 10em;
+		margin-left: 12em;
 
 	}
 	
@@ -1190,7 +1192,7 @@ margin-top: 3em;
   		padding: 0.7em 1em ;
  	 	text-decoration: none;
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 1.8em;
+		font-size: 1.6em;
 		color: black;
 	}
 	
@@ -1204,13 +1206,12 @@ margin-top: 3em;
 		box-shadow: 0em 0.3em 0.5em #bcbba8;
 		margin-top: 0.7em;
 		float: left;
-		position: fixed;
 
 	}
 	
 	#mainBuybut:hover
 	{
-		background-color: #ffffcc;
+		background-color: #ff9999;
 	}
 	
 	.navPaw
