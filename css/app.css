@@ -22,7 +22,105 @@ body
 
 
 @media screen and (max-width: 39.9375em) {
+	
+/*Buy Book*/	
+	
+#bodyBuy
+	{
+		background-image: url(../img/buy/bckgrnd.png);
+	}
+	
+#buyHeader
+	{
+		margin-left: 8em;
+		margin-top: 3em;
+		margin-right: 7em;
+	}
+	
+#buyHeader h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+	}
+	
+	#waterBuy
+	{
+		position: absolute;
+		margin-right: 3em;
+	}
+	
+#bookImage
+	{
+		margin-left: 7em;
+	}
+	
+#title
+	{
+		margin-left: 6em;
+		margin-top: 2em;
+	}
+	
+#title h3
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 1.5em;
+		border-bottom: 2px solid #ccffcc;
+	}
+	
+#summary
+	{
+		width: 20em;
+		margin-left: 3.8em;
+	}
+	
+#summary p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 0.9em;
+		text-align: center;
+	}
 
+#learnBuyBut
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+	margin-left: 4em;
+	}
+
+#BuyNow
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+		margin-left: 2em;
+	}
+	
+	#BuyNow:hover
+	{
+		background-color: #ffcccc;
+	}
+	
+	#learnBuyBut:hover
+	{
+		background-color: #ffcccc;
+	}
+
+
+#buyButtons
+	{
+		height: 7em;
+	}
+	
+	
+	
+/* home*/	
 #nav
 {
 	background-color: #ffff99;
@@ -562,6 +660,117 @@ margin-top: 3em;
 
 @media screen and (min-width: 40em) {
 
+/*buy book*/
+	
+#bodyBuy
+	{
+		background-image: url(../img/buy/bckgrnd.png);
+	}
+	
+#buyHeader
+	{
+		margin-left: 15em;
+		margin-top: 3em;
+		margin-right: 10em;
+	}
+	
+#buyHeader h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		margin-left: 1em;
+	}
+	
+	#waterBuy
+	{
+		position: absolute;
+	}
+	
+#bookImage
+	{
+		margin-left: 1em;
+		margin-top: 3em;
+		float: left;
+	}
+	
+	#bookCover
+	{
+		width: 321px;
+		height: 321px;
+	}
+	
+#title
+	{
+		margin-left: 2em;
+		margin-top: 2em;
+		float: left;
+	}
+	
+#title h3
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 1.5em;
+		border-bottom: 2px solid #ccffcc;
+	}
+	
+#summary
+	{
+		width: 17em;
+		float: left;
+		position: absolute;
+		margin-top: 12em;
+		margin-left: 23em;
+	}
+	
+#summary p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 0.9em;
+	}
+
+#learnBuyBut
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+	margin-left: 4em;
+	}
+
+#BuyNow
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+		margin-left: 2em;
+	}
+	
+	#BuyNow:hover
+	{
+		background-color: #ffcccc;
+	}
+	
+	#learnBuyBut:hover
+	{
+		background-color: #ffcccc;
+	}
+
+
+#buyButtons
+	{
+		height: 7em;
+		margin-left: 9em;
+		margin-top: 1em;
+	}
+		
+	
+	
+/*home*/
 #nav
 {
 	background-color: #ffff99;
@@ -1086,6 +1295,111 @@ margin-top: 3em;
 
 @media screen and (min-width: 64em){
 	
+/*buy book*/	
+	
+	#buyHeader
+	{
+		margin-left: 24em;
+		margin-top: 8em;
+		margin-right: 10em;
+	}
+	
+#buyHeader h2
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2.5em;
+	}
+	
+	#waterBuy
+	{
+		position: absolute;
+		width: 298px;
+		height: 78px;
+		margin: 0;
+	}
+	
+#bookImage
+	{
+		margin-left: 13em;
+		margin-top: 3em;
+		float: left;
+	}
+	
+	#bookCover
+	{
+		width: 321px;
+		height: 321px;
+	}
+	
+#title
+	{
+		margin-left: 2em;
+		margin-top: 2em;
+		float: left;
+	}
+	
+#title h3
+	{
+		font-family: 'Reenie Beanie', cursive;
+		font-size: 2em;
+		border-bottom: 2px solid #ccffcc;
+	}
+	
+#summary
+	{
+		width: 19em;
+		float: left;
+		position: absolute;
+		margin-top: 18em;
+		margin-left: 35em;
+	}
+	
+#summary p
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 0.9em;
+	}
+
+#learnBuyBut
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+	margin-left: 4em;
+	}
+
+#BuyNow
+	{
+		padding: 0.5em 1.3em 0.5em 1.3em;
+	background-color: #ff9999;
+	border-radius: 1em;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 1.25rem;
+	box-shadow: 0em 0.3em 0.5em grey;
+		margin-left: 2em;
+	}
+	
+	#BuyNow:hover
+	{
+		background-color: #ffcccc;
+	}
+	
+	#learnBuyBut:hover
+	{
+		background-color: #ffcccc;
+	}
+
+
+#buyButtons
+	{
+		height: 7em;
+	}
+		
+	
+/*home*/
 	#logo
 	{
 		display:none;
@@ -1556,10 +1870,15 @@ margin-top: 3em;
 	
 }
 
-@media screen and (min-width: 70em)
-
-{
+@media screen and (min-width: 70em){
 	
+	
+	#buyAbook
+	{
+		margin-left: 6em;
+	}
+	
+	/*home*/
 	#navpart1
 	{
 		margin-left: 14em;
