@@ -11,24 +11,26 @@
 <link href="https://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet">
 </head>
 <body>
-	  <div class="grid-container full">
-      <div class="grid-x" id="navShadow">
+	<div id="container">
+	  <div class="grid-x grid-margin-x">
 		  <div class="cell large-12">
-		  <div id="mainlogo">
+
+			
+			  
+			  <div  class="cell" id="desktopNav">
+				<ul id="navpart1">
+					<li onmouseover="showPaw1()"><img src="img/home/pink2.png" alt="pawprint" width="20" height="20" id="paw1"><a href="chico.html" id="nav1">Meet Chico</a></li>
+  					<li onmouseover="showPaw2()"><img src="img/home/pink2.png" alt="pawprint" width="20" height="20" class="navPaw" id="paw2"><a href="jen.html" id="nav2">Meet Jen</a></li>
+  					<li onmouseover="showPaw3()"><img src="img/home/pink2.png" alt="pawprint" width="20" h eight="20" class="navPaw" id="paw3"><a href="join.html" id="nav3">Join Us</a></li>
+				</ul>
+				<div id="mainlogo">
 				<img src="img/home/bluetake2pt2.png" alt="chico logo" width="151" height="187" id="Desktoplogo">
 					</div>
-			<div id="desktopNav">
-				<ul id="navpart1">
-					<li onmouseover="showPaw1()"><img src="img/home/pink2.png" alt="pawprint" width="30" height="30" id="paw1"><a href="chico.html" id="nav1">Meet Chico</a></li>
-  					<li onmouseover="showPaw2()"><img src="img/home/pink2.png" alt="pawprint" width="30" height="30" class="navPaw" id="paw2"><a href="jen.html" id="nav2">Meet Jen</a></li>
-  					<li onmouseover="showPaw3()"><img src="img/home/pink2.png" alt="pawprint" width="30" h eight="30" class="navPaw" id="paw3"><a href="join.html" id="nav3">Join Us</a></li>
-				</ul>
-				
 				
 				
 				<ul id="navpart2">
-					<li id="contact" onmouseover="showPaw4()"><img src="img/home/pink2.png" alt="pawprint" width="30" height="30" class="navPaw" id="paw4"><a href="contact.html" id="nav4">Contact Us</a></li>
-					<li onmouseover="showPaw5()"><img src="img/home/pink2.png" alt="pawprint" width="30" height="30" class="navPaw" id="paw5"><a href="donate.html" id="nav5">Donate</a></li>
+					<li id="contact" onmouseover="showPaw4()"><img src="img/home/pink2.png" alt="pawprint" width="20" height="20" class="navPaw" id="paw4"><a href="contact.html" id="nav4">Contact Us</a></li>
+					<li onmouseover="showPaw5()"><img src="img/home/pink2.png" alt="pawprint" width="20" height="20" class="navPaw" id="paw5"><a href="donate.html" id="nav5">Donate</a></li>
 				</ul>
 				
 				<button id="mainBuybut" type="button">Buy a Book</button>
@@ -59,18 +61,19 @@
 			</div>
         
 		  </div>  
-      </div>
     </div>
 	
 	
 	
-    <div class="grid-container full"> 
-      <div class="grid-x cell" id="welcome">
+    <div class="grid-x grid-margin-x" id="welcome"> 
+     
         <div class="cell small-12 large-12" id="headerTitle">
-			<div class="cell small-6 large-12" id="titleContainer">
+			<div class="cell small-6 large-8" id="titleContainer">
           <h1 id="ChicoCharity">Welcome to Chico's Charity</h1>
 			</div>
+			
 			<img src="img/home/white_no_text.png" id="whiteLogo" alt="chico logo" width="218" height="312">
+			
 			<div id="welcomeContent">
 			<div class="cell large-4" id="introImg">
 			<img id="welcomePic" src="img/home/chico_book_coverFrame.png" alt="chico" width="160" height="160">
@@ -84,11 +87,11 @@
 			<img src="img/home/yellowIceSplat.png" alt="paint" width="235" height="150">
 			</div>
         </div>
-      </div>
+
     </div>
 
 
- <div class="grid-container full">
+ <div class="grid-x grid-margin-x">
   <div class="grid-x cell">
 	  <div class="cell small-12" id="ourStory">
 	  
@@ -128,8 +131,7 @@
 	</div>
 
 
-  <div class="grid-container full"> <!--full to extend beyond container-->
-    <div class="grid-x cell">
+  <div class="grid-x grid-margin-x"> <!--full to extend beyond container-->
       <div class="cell small-12" id="support">
 		 
 		  <div id="supportHead">
@@ -167,12 +169,12 @@
 		  </div>
 		
       </div>
-    </div>
+
   </div>
 
 
 
-  <div class="grid-x cell">
+  <div class="grid-x grid-margin-x">
     <div class="cell small-12" id="footer">
 		<h2 id="letter">Send a letter to Chico!</h2>
 		<div id="envelope">
@@ -232,6 +234,7 @@ M1P 2OB</p>
       
     </div>
   </div>
+		</div>
 
 
   <script src="js/vendor/jquery.js"></script>

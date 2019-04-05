@@ -20,6 +20,7 @@ body
 
 
 
+
 @media screen and (max-width: 39.9375em) {
 
 #nav
@@ -1081,7 +1082,9 @@ margin-top: 3em;
 
 }
 
-@media screen and (min-width: 64em) {
+
+
+@media screen and (min-width: 64em){
 	
 	#logo
 	{
@@ -1099,8 +1102,8 @@ margin-top: 3em;
 		background-color: #ffff99;
 		height: 5.5rem;
 		box-shadow: 0rem 0.5em 1em #c2c24e;
-		min-width: 40em;
 		margin-top: 2em;
+		margin: 0 auto;
 	}
 	
 	#buyBook
@@ -1120,7 +1123,8 @@ margin-top: 3em;
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
-		margin-left: 2em;
+		float: left;
+
 
 	}
 	
@@ -1135,7 +1139,7 @@ margin-top: 3em;
 	{
 		display: block;
 		text-align: center;
-  		padding: 0.7em 1em;
+  		padding: 0.7em 0.5em;
  	 	text-decoration: none;
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.6em;
@@ -1148,8 +1152,6 @@ margin-top: 3em;
 		float: left;
 		margin: 0 auto;
 		position: absolute;
-		margin-left: 34.5em;
-		margin-top: 1em;
 		display: block;
 
 	}
@@ -1160,6 +1162,7 @@ margin-top: 3em;
 		width: 9.4em;
 		position: absolute;
 		margin: 0;
+		margin-left: 28em;
 	}
 	
 	#navpart2
@@ -1167,9 +1170,9 @@ margin-top: 3em;
 		list-style-type: none; 
 		margin: 0;
  		padding: 0;
-		width: 23em;
 		float: left;
 		margin-left: 12em;
+
 
 	}
 	
@@ -1189,7 +1192,7 @@ margin-top: 3em;
 	{
 		display: block;
 		text-align: center;
-  		padding: 0.7em 1em ;
+  		padding: 0.7em 0.5em ;
  	 	text-decoration: none;
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 1.6em;
@@ -1198,14 +1201,15 @@ margin-top: 3em;
 	
 	#mainBuybut
 	{
-		padding: 0.7em 1.5em 0.7em 1.5em;
+		padding: 0.5em 1em 0.5em 1em;
 		background-color: white;
 		border-radius: 1em;
 		font-family: 'Reenie Beanie', cursive;
-		font-size: 1.5em;
+		font-size: 1.2em;
 		box-shadow: 0em 0.3em 0.5em #bcbba8;
-		margin-top: 0.7em;
+		margin-top: 1.2em;
 		float: left;
+		margin-left: 1.3em;
 
 	}
 	
@@ -1262,14 +1266,14 @@ margin-top: 3em;
 	#ChicoCharity
 	{
 		margin-top: 0.3em;
-		margin-left: 12.5em;
+		margin-left: 10.5em;
 	}
 	
 	#whiteLogo
 	{
-		display: block;
+		display: none;
 		float: left;
-		margin-left: 68em;
+		margin-left: 66.5em;
 		position: absolute;
 		z-index: 1;
 	}
@@ -1550,7 +1554,60 @@ margin-top: 3em;
 
 	}
 	
+}
+
+@media screen and (min-width: 70em)
+
+{
 	
+	#navpart1
+	{
+		margin-left: 14em;
+				margin-top: 0.6em;
+	}
+	
+	#whiteLogo
+	{
+		display: block;
+	}
+	
+	
+	#navpart1 li
+	{
+		margin-left: 1em;
+	}
+	
+	#navpart1 li a
+	{
+		font-size: 1.4em;
+	}
+	
+	#navpart2
+	{
+		width: 18em;
+		margin-left: 10em;
+		margin-top: 0.6em;
+	}
+	
+	#navpart2 li a
+	{
+		font-size: 1.4em;
+	}
+	
+	#mainlogo
+	{
+		margin-left: 35em;
+	}
+	
+	#mainBuybut
+	{
+		margin-left: 0
+	}
+	
+	#ChicoCharity
+	{
+		margin-left: 13.7em;
+	}
 	
 	
 }
