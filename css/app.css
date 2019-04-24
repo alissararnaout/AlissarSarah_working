@@ -510,7 +510,7 @@ a {
 
 #chicoHeader
 	{
-		margin-left: 11em;
+		margin-bottom: 1em;
 		float: left;
 	}
 
@@ -518,6 +518,7 @@ a {
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
+		margin-left: 5.5em;
 	}
 
 	#chicoPara
@@ -541,7 +542,7 @@ a {
 	{
 		float:left;
 		position: absolute;
-		margin-top: 31.5em;
+		margin-top: 32.5em;
 		margin-left: 12em;
 	}
 
@@ -553,7 +554,7 @@ a {
 
 	#newsHeader
 	{
-		margin-left: 9em;
+		margin-left: 7em;
 		float: left;
 	}
 
@@ -561,23 +562,28 @@ a {
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
+		margin-left: 1em;
 	}
 
 	#waterMeet
 	{
 		position: absolute;
+		margin-left: 7em;
+		float: left;
 	}
 
 	#waterChico
 	{
 		float: left;
 		position: absolute;
+		
 	}
 
 	#article1
 	{
 		float: left;
 		margin-top: 2em;
+		
 	}
 
 	#article1 img
@@ -590,6 +596,8 @@ a {
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
+		padding-top: 1em;
+		padding-bottom: 1em;
 	}
 
 	#article1 h2
@@ -599,6 +607,7 @@ a {
 		margin-right: 2em;
 		font-size: 1.2em;
 		color: #ff9999;
+		text-align: center;
 	}
 
 	#article1 p
@@ -608,8 +617,14 @@ a {
 		font-size: 0.7em;
 		margin-left: 6em;
 		text-align: center;
-		padding-bottom: 1em;
+	
 
+	}
+	#readMore1 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 	#article2
@@ -628,6 +643,8 @@ a {
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
+		padding-top: 1em;
+		padding-bottom: 1em;
 	}
 
 	#article2 h2
@@ -637,6 +654,7 @@ a {
 		margin-right: 2em;
 		font-size: 1.2em;
 		color: #ff9999;
+		text-align: center;
 	}
 
 	#article2 p
@@ -646,8 +664,14 @@ a {
 		font-size: 0.7em;
 		margin-left: 6em;
 		text-align: center;
-		padding-bottom: 1em;
 
+	}
+	
+	#readMore2 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 	#article3
@@ -666,6 +690,8 @@ a {
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
 		margin-top: 1em;
+		padding-top: 1em;
+		padding-bottom: 1em;
 	}
 
 	#article3 h2
@@ -675,6 +701,7 @@ a {
 		margin-right: 2em;
 		font-size: 1.2em;
 		color: #ff9999;
+		text-align: center;
 	}
 
 	#article3 p
@@ -687,7 +714,15 @@ a {
 		padding-bottom: 1em;
 
 	}
-
+	
+	#readMore3 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
+	}
+	
+	
 
 /*Buy Book*/
 
@@ -1828,14 +1863,16 @@ margin-top: 3em;
 
 #chicoHeader
 	{
-		margin-left: 17em;
+		
 		float: left;
+		margin-right: 10em;
 	}
 
 #chicoHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
+		margin-left: 9em;
 	}
 
 	#chicoPara
@@ -1872,15 +1909,17 @@ margin-top: 3em;
 
 	#newsHeader
 	{
-		margin-left: 15em;
+	
 		margin-top: 5em;
 		float: left;
+		margin-right: 20em;
 	}
 
 	#newsHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
+			margin-left: 8em;
 	}
 
 	#waterMeet
@@ -1890,8 +1929,10 @@ margin-top: 3em;
 
 	#waterChico
 	{
-		float: left;
+		
 		position: absolute;
+		margin-left: 14em;
+
 	}
 
 	#article1
@@ -1900,6 +1941,8 @@ margin-top: 3em;
 		margin-top: 2em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
+		margin-left: 3em;
+		height: 26.2em;
 	}
 
 	#article1 img
@@ -1907,7 +1950,6 @@ margin-top: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
 	}
 
 
@@ -1915,11 +1957,13 @@ margin-top: 3em;
 	#article1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
 		margin-top: 1em;
+		text-align: left;
+		width: 10em;
 
 	}
 
@@ -1929,36 +1973,55 @@ margin-top: 3em;
 		font-size: 0.7em;
 		margin-left: 3em;
 		padding-bottom: 1em;
+		padding-right: 1em;
 		width: 20em;
 		float: left;
-
 	}
-
-	#readMore
+	
+	#readMore1
 	{
-
 		float: left;
-		margin-left: 15em;
 		position: absolute;
-		margin-top: 10em;
+		height: 3em;
+		margin-top: 23em;
 	}
 
-
-
-	#readMore a h2
+	#readMore1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
+		font-size: 1em;
+		text-decoration: underline;
+	}
+	
+	#readMore2
+	{
+		float: left;
+		position: absolute;
+		height: 3em;
+		margin-top: 23em;
+	}
 
+	
+	#readMore2 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
+	}
+	
+	#readMore3 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 	#article2
 	{
 		float: left;
 		margin-top: 2em;
+		height: 26.2em;
+		margin-left: 5em;
 	}
 
 	#article2 img
@@ -1966,22 +2029,7 @@ margin-top: 3em;
 		margin-left: 8.5em;
 	}
 
-	#text2
-	{
-		background-color: #ffff99;
-		box-shadow: 0em 0.2em 1em #c2c24e;
-		margin-top: 1em;
-	}
-
-	#article2 h2
-	{
-		font-family: 'Didact Gothic', sans-serif;
-		margin-left: 4em;
-		margin-right: 2em;
-		font-size: 1.2em;
-		color: #ff9999;
-	}
-
+	
 	#article2
 	{
 		float: left;
@@ -1995,7 +2043,7 @@ margin-top: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
+
 	}
 
 
@@ -2003,11 +2051,11 @@ margin-top: 3em;
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
-
+		margin-top: 1em;
 	}
 
 	#article2 p
@@ -2021,26 +2069,7 @@ margin-top: 3em;
 
 	}
 
-	#readMore2
-	{
-
-		float: left;
-		margin-left: 15em;
-		position: absolute;
-		margin-top: 10em;
-	}
-
-
-
-	#readMore2 a h2
-	{
-		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
-
-	}
+	
 
 	#article3
 	{
@@ -2048,6 +2077,9 @@ margin-top: 3em;
 		margin-top: 2em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
+		margin-left: 3em;
+		height: 26.2em;
+		margin-bottom: 2em;
 	}
 
 	#article3 img
@@ -2055,7 +2087,6 @@ margin-top: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
 	}
 
 
@@ -2063,11 +2094,13 @@ margin-top: 3em;
 	#article3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
 		margin-top: 1em;
+		text-align: left;
+		width: 10em;
 
 	}
 
@@ -2077,30 +2110,24 @@ margin-top: 3em;
 		font-size: 0.7em;
 		margin-left: 3em;
 		padding-bottom: 1em;
+		padding-right: 1em;
 		width: 20em;
 		float: left;
-
 	}
-
+	
 	#readMore3
 	{
-
 		float: left;
-		margin-left: 15em;
 		position: absolute;
-		margin-top: 10em;
+		height: 3em;
+		margin-top: 23em;
 	}
 
-
-
-	#readMore3 a h2
+	#readMore3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
-
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 
@@ -3267,14 +3294,16 @@ font-size: 3em;
 
 #chicoHeader
 	{
-		margin-left: 29em;
+		margin-right: 0;
 		float: left;
+
 	}
 
 #chicoHeader h2
 	{
 		font-family: 'Reenie Beanie', cursive;
 		font-size: 2em;
+		margin-left: 15em;
 	}
 
 	#chicoPara
@@ -3311,9 +3340,9 @@ font-size: 3em;
 
 	#newsHeader
 	{
-		margin-left: 29em;
 		margin-top: 5em;
 		float: left;
+		margin-left: 12em;
 	}
 
 	#newsHeader h2
@@ -3325,6 +3354,7 @@ font-size: 3em;
 	#waterMeet
 	{
 		position: absolute;
+		float:left;
 	}
 
 	#waterChico
@@ -3339,7 +3369,8 @@ font-size: 3em;
 		margin-top: 2em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
-		margin-left: 10em;
+		height: 26.2em;
+		margin-left: 6em;
 	}
 
 	#article1 img
@@ -3347,7 +3378,6 @@ font-size: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
 	}
 
 
@@ -3355,53 +3385,85 @@ font-size: 3em;
 	#article1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
 		margin-top: 1em;
+		text-align: left;
+		width: 10em;
 
 	}
 
 	#article1 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.9em;
+		font-size: 0.7em;
 		margin-left: 3em;
-		width: 30em;
 		padding-bottom: 1em;
+		padding-right: 1em;
+		width: 20em;
 		float: left;
-
 	}
-
-	#readMore
+	
+	#readMore1
 	{
-
 		float: left;
-		margin-left: 16em;
 		position: absolute;
-		margin-top: 10em;
+		height: 3em;
+		margin-top: 23em;
 	}
 
-
-
-	#readMore a h2
+	#readMore1 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
+		font-size: 1em;
+		text-decoration: underline;
+	}
+	
+	#readMore2
+	{
+		float: left;
+		position: absolute;
+		height: 3em;
+		margin-top: 23em;
+	}
 
+	
+	#readMore2 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
+	}
+	
+	#readMore3 h2
+	{
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 	#article2
 	{
 		float: left;
 		margin-top: 2em;
+		height: 26.2em;
+		margin-left: 3em;
+	}
+
+	#article2 img
+	{
+		margin-left: 8.5em;
+	}
+
+	
+	#article2
+	{
+		float: left;
+		margin-top: 2em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
-		margin-left: 10em;
 	}
 
 	#article2 img
@@ -3409,7 +3471,7 @@ font-size: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
+
 	}
 
 
@@ -3417,45 +3479,25 @@ font-size: 3em;
 	#article2 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
 		margin-top: 1em;
-
 	}
 
 	#article2 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.9em;
-		margin-left: 3em;
-		width: 30em;
-		padding-bottom: 1em;
-		float: left;
-
-	}
-
-	#readMore2
-	{
-
-		float: left;
-		margin-left: 16em;
-		position: absolute;
-		margin-top: 10em;
-	}
-
-
-
-	#readMore2 a h2
-	{
-		font-family: 'Didact Gothic', sans-serif;
 		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
+		margin-left: 3em;
+		padding-bottom: 1em;
+		width: 20em;
+		float: left;
 
 	}
+
+	
 
 	#article3
 	{
@@ -3463,7 +3505,9 @@ font-size: 3em;
 		margin-top: 2em;
 		background-color: #ffff99;
 		box-shadow: 0em 0.2em 1em #c2c24e;
-		margin-left: 10em;
+		margin-left: 3em;
+		height: 26.2em;
+		margin-bottom: 2em;
 	}
 
 	#article3 img
@@ -3471,7 +3515,6 @@ font-size: 3em;
 		margin-left: 2em;
 		margin-top: 2em;
 		float: left;
-		padding-bottom: 2em;
 	}
 
 
@@ -3479,44 +3522,40 @@ font-size: 3em;
 	#article3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 1.2em;
+		font-size: 1em;
 		color: #ff9999;
 		float: left;
 		margin-left: 2em;
 		margin-top: 1em;
+		text-align: left;
+		width: 10em;
 
 	}
 
 	#article3 p
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.9em;
+		font-size: 0.7em;
 		margin-left: 3em;
-		width: 30em;
 		padding-bottom: 1em;
+		padding-right: 1em;
+		width: 20em;
 		float: left;
-
 	}
-
+	
 	#readMore3
 	{
-
 		float: left;
-		margin-left: 16em;
 		position: absolute;
-		margin-top: 10em;
+		height: 3em;
+		margin-top: 23em;
 	}
 
-
-
-	#readMore3 a h2
+	#readMore3 h2
 	{
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 0.7em;
-		color: cadetblue;
-		text-decoration: none;
-		list-style-type: none;
-
+		font-size: 1em;
+		text-decoration: underline;
 	}
 
 /*buy book*/
@@ -3627,6 +3666,11 @@ font-size: 3em;
 	#logo
 	{
 		display:none;
+	}
+	
+	#whiteLogo
+	{
+		margin-left: 1em;
 	}
 
 	#nav
@@ -3819,6 +3863,7 @@ font-size: 3em;
 	#welcomeContent
 	{
 		margin-top: 10em;
+		margin-left: 6em;
 	}
 
 	#welcomePic
@@ -4227,6 +4272,8 @@ opacity: 0.75;
 	#whiteLogo
 	{
 		display: block;
+		margin-left: 70em;
+		
 	}
 
 
